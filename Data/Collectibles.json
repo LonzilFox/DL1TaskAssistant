@@ -1,0 +1,2518 @@
+﻿{
+  "version": "0.1.0",
+  "source": "Data0.pak/data/scripts/inventory/validitemids.scr",
+  "categories": [
+    {
+      "key": "base_notes",
+      "title": "便笺",
+      "scope": "本体",
+      "description": "Harran 本体 34 份文字便笺",
+      "supported": true,
+      "items": [
+        {
+          "id": 129,
+          "name": "笔记 #01",
+          "internalId": "Collectable_Note_GoodNightBahir_01"
+        },
+        {
+          "id": 114,
+          "name": "笔记 #02",
+          "internalId": "Collectable_Note_BringGalib_01"
+        },
+        {
+          "id": 115,
+          "name": "笔记 #03",
+          "internalId": "Collectable_Note_BringGalib_03"
+        },
+        {
+          "id": 116,
+          "name": "笔记 #04",
+          "internalId": "Collectable_Note_BringGalib_04"
+        },
+        {
+          "id": 117,
+          "name": "笔记 #05",
+          "internalId": "Collectable_Note_BringGalib_05"
+        },
+        {
+          "id": 112,
+          "name": "笔记 #06",
+          "internalId": "Collectable_Note_BringDawud_01"
+        },
+        {
+          "id": 113,
+          "name": "笔记 #07",
+          "internalId": "Collectable_Note_BringDawud_02"
+        },
+        {
+          "id": 142,
+          "name": "笔记 #08",
+          "internalId": "Collectable_Note_WheresMyMother_01"
+        },
+        {
+          "id": 121,
+          "name": "笔记 #9",
+          "internalId": "Collectable_Note_BringMusa_01"
+        },
+        {
+          "id": 122,
+          "name": "笔记 #10",
+          "internalId": "Collectable_Note_BringMusa_02"
+        },
+        {
+          "id": 141,
+          "name": "笔记 #11",
+          "internalId": "Collectable_Note_Voltage_01"
+        },
+        {
+          "id": 138,
+          "name": "笔记 #12",
+          "internalId": "Collectable_Note_Searchlights_01"
+        },
+        {
+          "id": 110,
+          "name": "笔记 #13",
+          "internalId": "Collectable_Note_BringAntibiotics_01"
+        },
+        {
+          "id": 111,
+          "name": "笔记 #14",
+          "internalId": "Collectable_Note_BringAntibiotics_02"
+        },
+        {
+          "id": 143,
+          "name": "笔记 #15",
+          "internalId": "Collectable_Note_WitchQueen_01"
+        },
+        {
+          "id": 124,
+          "name": "笔记 #16",
+          "internalId": "Collectable_Note_DeathNote_01"
+        },
+        {
+          "id": 125,
+          "name": "笔记 #17",
+          "internalId": "Collectable_Note_DeathNote_02"
+        },
+        {
+          "id": 118,
+          "name": "笔记 #18",
+          "internalId": "Collectable_Note_BringJeff_01"
+        },
+        {
+          "id": 119,
+          "name": "笔记 #19",
+          "internalId": "Collectable_Note_BringJeff_02"
+        },
+        {
+          "id": 120,
+          "name": "笔记 #20",
+          "internalId": "Collectable_Note_BringJeff_03"
+        },
+        {
+          "id": 135,
+          "name": "笔记 #21",
+          "internalId": "Collectable_Note_MothersDay_01"
+        },
+        {
+          "id": 130,
+          "name": "笔记 #22",
+          "internalId": "Collectable_Note_GuideToZombieland_01"
+        },
+        {
+          "id": 126,
+          "name": "笔记 #23",
+          "internalId": "Collectable_Note_ElectricMachete_01"
+        },
+        {
+          "id": 139,
+          "name": "笔记 #24",
+          "internalId": "Collectable_Note_TalesFromTheCrypt_01"
+        },
+        {
+          "id": 140,
+          "name": "笔记 #25",
+          "internalId": "Collectable_Note_TalesFromTheCrypt_02"
+        },
+        {
+          "id": 123,
+          "name": "笔记 #26",
+          "internalId": "Collectable_Note_CrayonsForTheKids_01"
+        },
+        {
+          "id": 136,
+          "name": "笔记 #27",
+          "internalId": "Collectable_Note_Prophet_01"
+        },
+        {
+          "id": 137,
+          "name": "笔记 #28",
+          "internalId": "Collectable_Note_Prophet_02"
+        },
+        {
+          "id": 128,
+          "name": "笔记 #29",
+          "internalId": "Collectable_Note_Ghost_01"
+        },
+        {
+          "id": 131,
+          "name": "笔记 #30",
+          "internalId": "Collectable_Note_LeglessSpider_01"
+        },
+        {
+          "id": 132,
+          "name": "笔记 #31",
+          "internalId": "Collectable_Note_LeglessSpider_02"
+        },
+        {
+          "id": 133,
+          "name": "笔记 #32",
+          "internalId": "Collectable_Note_LeglessSpider_03"
+        },
+        {
+          "id": 134,
+          "name": "笔记 #33",
+          "internalId": "Collectable_Note_MagicFortress_01"
+        },
+        {
+          "id": 127,
+          "name": "笔记 #34",
+          "internalId": "Collectable_Note_FanZone_01"
+        }
+      ]
+    },
+    {
+      "key": "base_battle_journals",
+      "title": "战斗日志",
+      "scope": "本体",
+      "description": "Marvin Zucker 的 17 份战斗日志",
+      "supported": true,
+      "items": [
+        {
+          "id": 63,
+          "name": "马尔文·扎克的战地日记。记录 #0",
+          "internalId": "Collectable_BattleJournal_00"
+        },
+        {
+          "id": 64,
+          "name": "马尔文·扎克的战地日记。记录 #1",
+          "internalId": "Collectable_BattleJournal_01"
+        },
+        {
+          "id": 65,
+          "name": "马尔文·扎克的战地日记。记录 #2",
+          "internalId": "Collectable_BattleJournal_02"
+        },
+        {
+          "id": 66,
+          "name": "马尔文·扎克的战地日记。记录 #3",
+          "internalId": "Collectable_BattleJournal_03"
+        },
+        {
+          "id": 67,
+          "name": "马尔文·扎克的战地日记。记录 #4",
+          "internalId": "Collectable_BattleJournal_04"
+        },
+        {
+          "id": 68,
+          "name": "马尔文·扎克的战地日记。记录 #5",
+          "internalId": "Collectable_BattleJournal_05"
+        },
+        {
+          "id": 69,
+          "name": "马尔文·扎克的战地日记。记录 #6",
+          "internalId": "Collectable_BattleJournal_06"
+        },
+        {
+          "id": 70,
+          "name": "马尔文·扎克的战地日记。记录 #7",
+          "internalId": "Collectable_BattleJournal_07"
+        },
+        {
+          "id": 71,
+          "name": "马尔文·扎克的战地日记。记录 #8",
+          "internalId": "Collectable_BattleJournal_08"
+        },
+        {
+          "id": 72,
+          "name": "马尔文·扎克的战地日记。记录 #9",
+          "internalId": "Collectable_BattleJournal_09"
+        },
+        {
+          "id": 73,
+          "name": "马尔文·扎克的战地日记。记录 #10",
+          "internalId": "Collectable_BattleJournal_10"
+        },
+        {
+          "id": 74,
+          "name": "马尔文·扎克的战地日记。记录 # 11",
+          "internalId": "Collectable_BattleJournal_11"
+        },
+        {
+          "id": 75,
+          "name": "马尔文·扎克的战地日记。记录 #12",
+          "internalId": "Collectable_BattleJournal_12"
+        },
+        {
+          "id": 76,
+          "name": "马尔文·扎克的战地日记。记录 #13",
+          "internalId": "Collectable_BattleJournal_13"
+        },
+        {
+          "id": 77,
+          "name": "马尔文·扎克的战地日记。记录 #14",
+          "internalId": "Collectable_BattleJournal_14"
+        },
+        {
+          "id": 78,
+          "name": "马尔文·扎克的战地日记。记录 #15",
+          "internalId": "Collectable_BattleJournal_15"
+        },
+        {
+          "id": 79,
+          "name": "马尔文·扎克的战地日记。后记",
+          "internalId": "Collectable_BattleJournal_16"
+        }
+      ]
+    },
+    {
+      "key": "base_voicemail",
+      "title": "语音邮箱",
+      "scope": "本体",
+      "description": "Old Town 的 16 条录音",
+      "supported": true,
+      "items": [
+        {
+          "id": 144,
+          "name": "语音邮件 #1",
+          "internalId": "Collectable_VoiceMail_01"
+        },
+        {
+          "id": 145,
+          "name": "语音邮件 #2",
+          "internalId": "Collectable_VoiceMail_02"
+        },
+        {
+          "id": 146,
+          "name": "语音邮件 #3",
+          "internalId": "Collectable_VoiceMail_03"
+        },
+        {
+          "id": 147,
+          "name": "语音邮件 #4",
+          "internalId": "Collectable_VoiceMail_04"
+        },
+        {
+          "id": 148,
+          "name": "语音邮件 #5",
+          "internalId": "Collectable_VoiceMail_05"
+        },
+        {
+          "id": 149,
+          "name": "语音邮件 #6",
+          "internalId": "Collectable_VoiceMail_06"
+        },
+        {
+          "id": 150,
+          "name": "语音邮件 #7",
+          "internalId": "Collectable_VoiceMail_07"
+        },
+        {
+          "id": 151,
+          "name": "语音邮件 #8",
+          "internalId": "Collectable_VoiceMail_08"
+        },
+        {
+          "id": 152,
+          "name": "语音邮件 #9",
+          "internalId": "Collectable_VoiceMail_09"
+        },
+        {
+          "id": 153,
+          "name": "语音邮件 #10",
+          "internalId": "Collectable_VoiceMail_10"
+        },
+        {
+          "id": 154,
+          "name": "语音邮件 #11",
+          "internalId": "Collectable_VoiceMail_11"
+        },
+        {
+          "id": 155,
+          "name": "语音邮件 #12",
+          "internalId": "Collectable_VoiceMail_12"
+        },
+        {
+          "id": 156,
+          "name": "语音邮件 #13",
+          "internalId": "Collectable_VoiceMail_13"
+        },
+        {
+          "id": 157,
+          "name": "语音邮件 #14",
+          "internalId": "Collectable_VoiceMail_14"
+        },
+        {
+          "id": 158,
+          "name": "语音邮件 #15",
+          "internalId": "Collectable_VoiceMail_15"
+        },
+        {
+          "id": 159,
+          "name": "语音邮件 #16",
+          "internalId": "Collectable_VoiceMail_16"
+        }
+      ]
+    },
+    {
+      "key": "base_flags",
+      "title": "旗帜",
+      "scope": "本体",
+      "description": "Slums / Old Town 共 30 面旗帜",
+      "supported": true,
+      "items": [
+        {
+          "id": 80,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_01"
+        },
+        {
+          "id": 81,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_02"
+        },
+        {
+          "id": 82,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_03"
+        },
+        {
+          "id": 83,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_04"
+        },
+        {
+          "id": 84,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_05"
+        },
+        {
+          "id": 85,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_06"
+        },
+        {
+          "id": 86,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_07"
+        },
+        {
+          "id": 87,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_08"
+        },
+        {
+          "id": 88,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_09"
+        },
+        {
+          "id": 89,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_10"
+        },
+        {
+          "id": 90,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_11"
+        },
+        {
+          "id": 91,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_12"
+        },
+        {
+          "id": 92,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_13"
+        },
+        {
+          "id": 93,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_14"
+        },
+        {
+          "id": 94,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_15"
+        },
+        {
+          "id": 95,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_16"
+        },
+        {
+          "id": 96,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_17"
+        },
+        {
+          "id": 97,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_18"
+        },
+        {
+          "id": 98,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_19"
+        },
+        {
+          "id": 99,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_20"
+        },
+        {
+          "id": 100,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_21"
+        },
+        {
+          "id": 101,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_22"
+        },
+        {
+          "id": 102,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_23"
+        },
+        {
+          "id": 103,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_24"
+        },
+        {
+          "id": 104,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_25"
+        },
+        {
+          "id": 105,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_26"
+        },
+        {
+          "id": 106,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_27"
+        },
+        {
+          "id": 107,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_28"
+        },
+        {
+          "id": 108,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_29"
+        },
+        {
+          "id": 109,
+          "name": "旗帜",
+          "internalId": "Collectable_Flag_30"
+        }
+      ]
+    },
+    {
+      "key": "base_zombie_statues",
+      "title": "僵尸雕像",
+      "scope": "本体",
+      "description": "100 个 Zombie Statue / Figurine",
+      "supported": true,
+      "items": [
+        {
+          "id": 160,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_01"
+        },
+        {
+          "id": 161,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_02"
+        },
+        {
+          "id": 162,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_03"
+        },
+        {
+          "id": 163,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_04"
+        },
+        {
+          "id": 164,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_05"
+        },
+        {
+          "id": 165,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_06"
+        },
+        {
+          "id": 166,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_07"
+        },
+        {
+          "id": 167,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_08"
+        },
+        {
+          "id": 168,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_09"
+        },
+        {
+          "id": 169,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_10"
+        },
+        {
+          "id": 171,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_11"
+        },
+        {
+          "id": 172,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_12"
+        },
+        {
+          "id": 173,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_13"
+        },
+        {
+          "id": 174,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_14"
+        },
+        {
+          "id": 175,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_15"
+        },
+        {
+          "id": 176,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_16"
+        },
+        {
+          "id": 177,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_17"
+        },
+        {
+          "id": 178,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_18"
+        },
+        {
+          "id": 179,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_19"
+        },
+        {
+          "id": 180,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_20"
+        },
+        {
+          "id": 181,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_21"
+        },
+        {
+          "id": 182,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_22"
+        },
+        {
+          "id": 183,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_23"
+        },
+        {
+          "id": 184,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_24"
+        },
+        {
+          "id": 185,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_25"
+        },
+        {
+          "id": 186,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_26"
+        },
+        {
+          "id": 187,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_27"
+        },
+        {
+          "id": 188,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_28"
+        },
+        {
+          "id": 189,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_29"
+        },
+        {
+          "id": 190,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_30"
+        },
+        {
+          "id": 191,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_31"
+        },
+        {
+          "id": 192,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_32"
+        },
+        {
+          "id": 193,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_33"
+        },
+        {
+          "id": 194,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_34"
+        },
+        {
+          "id": 195,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_35"
+        },
+        {
+          "id": 196,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_36"
+        },
+        {
+          "id": 197,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_37"
+        },
+        {
+          "id": 198,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_38"
+        },
+        {
+          "id": 199,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_39"
+        },
+        {
+          "id": 200,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_40"
+        },
+        {
+          "id": 201,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_41"
+        },
+        {
+          "id": 202,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_42"
+        },
+        {
+          "id": 203,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_43"
+        },
+        {
+          "id": 204,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_44"
+        },
+        {
+          "id": 205,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_45"
+        },
+        {
+          "id": 206,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_46"
+        },
+        {
+          "id": 207,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_47"
+        },
+        {
+          "id": 208,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_48"
+        },
+        {
+          "id": 209,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_49"
+        },
+        {
+          "id": 210,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_50"
+        },
+        {
+          "id": 211,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_51"
+        },
+        {
+          "id": 212,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_52"
+        },
+        {
+          "id": 213,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_53"
+        },
+        {
+          "id": 214,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_54"
+        },
+        {
+          "id": 215,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_55"
+        },
+        {
+          "id": 216,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_56"
+        },
+        {
+          "id": 217,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_57"
+        },
+        {
+          "id": 218,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_58"
+        },
+        {
+          "id": 219,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_59"
+        },
+        {
+          "id": 220,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_60"
+        },
+        {
+          "id": 221,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_61"
+        },
+        {
+          "id": 222,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_62"
+        },
+        {
+          "id": 223,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_63"
+        },
+        {
+          "id": 224,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_64"
+        },
+        {
+          "id": 225,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_65"
+        },
+        {
+          "id": 226,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_66"
+        },
+        {
+          "id": 227,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_67"
+        },
+        {
+          "id": 228,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_68"
+        },
+        {
+          "id": 229,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_69"
+        },
+        {
+          "id": 230,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_70"
+        },
+        {
+          "id": 231,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_71"
+        },
+        {
+          "id": 232,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_72"
+        },
+        {
+          "id": 233,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_73"
+        },
+        {
+          "id": 234,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_74"
+        },
+        {
+          "id": 235,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_75"
+        },
+        {
+          "id": 236,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_76"
+        },
+        {
+          "id": 237,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_77"
+        },
+        {
+          "id": 238,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_78"
+        },
+        {
+          "id": 239,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_79"
+        },
+        {
+          "id": 240,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_80"
+        },
+        {
+          "id": 241,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_81"
+        },
+        {
+          "id": 242,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_82"
+        },
+        {
+          "id": 243,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_83"
+        },
+        {
+          "id": 244,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_84"
+        },
+        {
+          "id": 245,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_85"
+        },
+        {
+          "id": 246,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_86"
+        },
+        {
+          "id": 247,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_87"
+        },
+        {
+          "id": 248,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_88"
+        },
+        {
+          "id": 249,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_89"
+        },
+        {
+          "id": 250,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_90"
+        },
+        {
+          "id": 251,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_91"
+        },
+        {
+          "id": 252,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_92"
+        },
+        {
+          "id": 253,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_93"
+        },
+        {
+          "id": 254,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_94"
+        },
+        {
+          "id": 255,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_95"
+        },
+        {
+          "id": 256,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_96"
+        },
+        {
+          "id": 257,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_97"
+        },
+        {
+          "id": 258,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_98"
+        },
+        {
+          "id": 259,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_99"
+        },
+        {
+          "id": 170,
+          "name": "丧尸雕像",
+          "internalId": "Collectable_Zombiestatue_100"
+        }
+      ]
+    },
+    {
+      "key": "following_flags",
+      "title": "旗帜",
+      "scope": "The Following",
+      "description": "Countryside 共 50 面旗帜",
+      "supported": true,
+      "items": [
+        {
+          "id": 2496,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_01"
+        },
+        {
+          "id": 2497,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_02"
+        },
+        {
+          "id": 2498,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_03"
+        },
+        {
+          "id": 2499,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_04"
+        },
+        {
+          "id": 2500,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_05"
+        },
+        {
+          "id": 2501,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_06"
+        },
+        {
+          "id": 2502,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_07"
+        },
+        {
+          "id": 2503,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_08"
+        },
+        {
+          "id": 2504,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_09"
+        },
+        {
+          "id": 2505,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_10"
+        },
+        {
+          "id": 2506,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_11"
+        },
+        {
+          "id": 2507,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_12"
+        },
+        {
+          "id": 2508,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_13"
+        },
+        {
+          "id": 2509,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_14"
+        },
+        {
+          "id": 2510,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_15"
+        },
+        {
+          "id": 2511,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_16"
+        },
+        {
+          "id": 2512,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_17"
+        },
+        {
+          "id": 2513,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_18"
+        },
+        {
+          "id": 2514,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_19"
+        },
+        {
+          "id": 2515,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_20"
+        },
+        {
+          "id": 2516,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_21"
+        },
+        {
+          "id": 2517,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_22"
+        },
+        {
+          "id": 2518,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_23"
+        },
+        {
+          "id": 2519,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_24"
+        },
+        {
+          "id": 2520,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_25"
+        },
+        {
+          "id": 2521,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_26"
+        },
+        {
+          "id": 2522,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_27"
+        },
+        {
+          "id": 2523,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_28"
+        },
+        {
+          "id": 2524,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_29"
+        },
+        {
+          "id": 2525,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_30"
+        },
+        {
+          "id": 2526,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_31"
+        },
+        {
+          "id": 2527,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_32"
+        },
+        {
+          "id": 2528,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_33"
+        },
+        {
+          "id": 2529,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_34"
+        },
+        {
+          "id": 2530,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_35"
+        },
+        {
+          "id": 2531,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_36"
+        },
+        {
+          "id": 2532,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_37"
+        },
+        {
+          "id": 2533,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_38"
+        },
+        {
+          "id": 2534,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_39"
+        },
+        {
+          "id": 2535,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_40"
+        },
+        {
+          "id": 2536,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_41"
+        },
+        {
+          "id": 2537,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_42"
+        },
+        {
+          "id": 2538,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_43"
+        },
+        {
+          "id": 2539,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_44"
+        },
+        {
+          "id": 2540,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_45"
+        },
+        {
+          "id": 2541,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_46"
+        },
+        {
+          "id": 2542,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_47"
+        },
+        {
+          "id": 2543,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_48"
+        },
+        {
+          "id": 2544,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_49"
+        },
+        {
+          "id": 2545,
+          "name": "旗帜",
+          "internalId": "ZZZZ_Collectable_Following_Flag_50"
+        }
+      ]
+    },
+    {
+      "key": "following_notes",
+      "title": "便笺",
+      "scope": "The Following",
+      "description": "17 普通便笺 + 15 社区信件 + Attila's letter，共 33 份",
+      "supported": true,
+      "items": [
+        {
+          "id": 2566,
+          "name": "阿提拉的便笺 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_01"
+        },
+        {
+          "id": 2567,
+          "name": "阿提拉的便笺 02〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_02"
+        },
+        {
+          "id": 2568,
+          "name": "阿提拉的便笺 03〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_03"
+        },
+        {
+          "id": 2569,
+          "name": "阿提拉的便笺 04〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_04"
+        },
+        {
+          "id": 2570,
+          "name": "阿提拉的便笺 05〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_05"
+        },
+        {
+          "id": 2571,
+          "name": "阿提拉的便笺 06〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_06"
+        },
+        {
+          "id": 2572,
+          "name": "阿提拉的便笺 07〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_07"
+        },
+        {
+          "id": 2573,
+          "name": "阿提拉的便笺 08〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Atilla_08"
+        },
+        {
+          "id": 2574,
+          "name": "医疗记录 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Medical_01"
+        },
+        {
+          "id": 2575,
+          "name": "医疗记录 02〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Medical_02"
+        },
+        {
+          "id": 2576,
+          "name": "医疗记录 03〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Medical_03"
+        },
+        {
+          "id": 2577,
+          "name": "医疗记录 04〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Medical_04"
+        },
+        {
+          "id": 2578,
+          "name": "诗歌 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Poetry_01"
+        },
+        {
+          "id": 2579,
+          "name": "遗言 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Sad_01"
+        },
+        {
+          "id": 2580,
+          "name": "遗言 02〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Sad_02"
+        },
+        {
+          "id": 2581,
+          "name": "遗言 03〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Sad_03"
+        },
+        {
+          "id": 2582,
+          "name": "遗言 04〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Note_Sad_04"
+        },
+        {
+          "id": 2840,
+          "name": "便笺〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_UnfinishedStory_AtillaLetter"
+        },
+        {
+          "id": 2825,
+          "name": "社区信件 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_01"
+        },
+        {
+          "id": 2826,
+          "name": "社区信件 02〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_02"
+        },
+        {
+          "id": 2827,
+          "name": "社区信件 03〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_03"
+        },
+        {
+          "id": 2828,
+          "name": "社区信件 04〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_04"
+        },
+        {
+          "id": 2829,
+          "name": "社区信件 05〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_05"
+        },
+        {
+          "id": 2830,
+          "name": "社区信件 06〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_06"
+        },
+        {
+          "id": 2831,
+          "name": "社区信件 07〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_07"
+        },
+        {
+          "id": 2832,
+          "name": "社区信件 08〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_08"
+        },
+        {
+          "id": 2833,
+          "name": "社区信件 09〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_09"
+        },
+        {
+          "id": 2834,
+          "name": "社区信件 10〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_10"
+        },
+        {
+          "id": 2835,
+          "name": "社区信件 11〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_11"
+        },
+        {
+          "id": 2836,
+          "name": "社区信件 12〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_12"
+        },
+        {
+          "id": 2837,
+          "name": "社区信件 13〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_13"
+        },
+        {
+          "id": 2838,
+          "name": "社区信件 14〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_14"
+        },
+        {
+          "id": 2839,
+          "name": "社区信件 15〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_CommunityLetter_15"
+        }
+      ]
+    },
+    {
+      "key": "following_masks",
+      "title": "仪式面具",
+      "scope": "The Following",
+      "description": "Children of the Sun 仪式面具，共 20 个",
+      "supported": true,
+      "items": [
+        {
+          "id": 2546,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_01"
+        },
+        {
+          "id": 2547,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_02"
+        },
+        {
+          "id": 2548,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_03"
+        },
+        {
+          "id": 2549,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_04"
+        },
+        {
+          "id": 2550,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_05"
+        },
+        {
+          "id": 2551,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_06"
+        },
+        {
+          "id": 2552,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_07"
+        },
+        {
+          "id": 2553,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_08"
+        },
+        {
+          "id": 2554,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_09"
+        },
+        {
+          "id": 2555,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_10"
+        },
+        {
+          "id": 2556,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_11"
+        },
+        {
+          "id": 2557,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_12"
+        },
+        {
+          "id": 2558,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_13"
+        },
+        {
+          "id": 2559,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_14"
+        },
+        {
+          "id": 2560,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_15"
+        },
+        {
+          "id": 2561,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_16"
+        },
+        {
+          "id": 2562,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_17"
+        },
+        {
+          "id": 2563,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_18"
+        },
+        {
+          "id": 2564,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_19"
+        },
+        {
+          "id": 2565,
+          "name": "仪式面具",
+          "internalId": "ZZZZ_Collectable_Mask_20"
+        }
+      ]
+    },
+    {
+      "key": "following_racing_trophies",
+      "title": "赛车奖杯",
+      "scope": "The Following",
+      "description": "Countryside 共 50 个 Racing Trophy",
+      "supported": true,
+      "items": [
+        {
+          "id": 2583,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_01"
+        },
+        {
+          "id": 2584,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_02"
+        },
+        {
+          "id": 2585,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_03"
+        },
+        {
+          "id": 2586,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_04"
+        },
+        {
+          "id": 2587,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_05"
+        },
+        {
+          "id": 2588,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_06"
+        },
+        {
+          "id": 2589,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_07"
+        },
+        {
+          "id": 2590,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_08"
+        },
+        {
+          "id": 2591,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_09"
+        },
+        {
+          "id": 2592,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_10"
+        },
+        {
+          "id": 2593,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_11"
+        },
+        {
+          "id": 2594,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_12"
+        },
+        {
+          "id": 2595,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_13"
+        },
+        {
+          "id": 2596,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_14"
+        },
+        {
+          "id": 2597,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_15"
+        },
+        {
+          "id": 2598,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_16"
+        },
+        {
+          "id": 2599,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_17"
+        },
+        {
+          "id": 2600,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_18"
+        },
+        {
+          "id": 2601,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_19"
+        },
+        {
+          "id": 2602,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_20"
+        },
+        {
+          "id": 2603,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_21"
+        },
+        {
+          "id": 2604,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_22"
+        },
+        {
+          "id": 2605,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_23"
+        },
+        {
+          "id": 2606,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_24"
+        },
+        {
+          "id": 2607,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_25"
+        },
+        {
+          "id": 2608,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_26"
+        },
+        {
+          "id": 2609,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_27"
+        },
+        {
+          "id": 2610,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_28"
+        },
+        {
+          "id": 2611,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_29"
+        },
+        {
+          "id": 2612,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_30"
+        },
+        {
+          "id": 2613,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_31"
+        },
+        {
+          "id": 2614,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_32"
+        },
+        {
+          "id": 2615,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_33"
+        },
+        {
+          "id": 2616,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_34"
+        },
+        {
+          "id": 2617,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_35"
+        },
+        {
+          "id": 2618,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_36"
+        },
+        {
+          "id": 2619,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_37"
+        },
+        {
+          "id": 2620,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_38"
+        },
+        {
+          "id": 2621,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_39"
+        },
+        {
+          "id": 2622,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_40"
+        },
+        {
+          "id": 2623,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_41"
+        },
+        {
+          "id": 2624,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_42"
+        },
+        {
+          "id": 2625,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_43"
+        },
+        {
+          "id": 2626,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_44"
+        },
+        {
+          "id": 2627,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_45"
+        },
+        {
+          "id": 2628,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_46"
+        },
+        {
+          "id": 2629,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_47"
+        },
+        {
+          "id": 2630,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_48"
+        },
+        {
+          "id": 2631,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_49"
+        },
+        {
+          "id": 2632,
+          "name": "竞速奖杯",
+          "internalId": "ZZZZ_Collectable_Wasteland_Cartrophy_50"
+        }
+      ]
+    },
+    {
+      "key": "hellraid_notes",
+      "title": "神秘卷轴 / 便笺",
+      "scope": "Hellraid",
+      "description": "Hellraid 共 13 个可收集便笺；其中原始 10 个关联 Well-read，后续追加 3 个。",
+      "supported": true,
+      "items": [
+        {
+          "id": 3342336,
+          "name": "伯爵血迹斑斑的信件",
+          "internalId": "Collectable_Note_Hellraid_01"
+        },
+        {
+          "id": 3342337,
+          "name": "瓦拉的请求",
+          "internalId": "Collectable_Note_Hellraid_02"
+        },
+        {
+          "id": 3342338,
+          "name": "图书馆笔记",
+          "internalId": "Collectable_Note_Hellraid_03"
+        },
+        {
+          "id": 3342339,
+          "name": "最后的报告",
+          "internalId": "Collectable_Note_Hellraid_04"
+        },
+        {
+          "id": 3342340,
+          "name": "阿娜特的指示",
+          "internalId": "Collectable_Note_Hellraid_05"
+        },
+        {
+          "id": 3342341,
+          "name": "神选者的出现",
+          "internalId": "Collectable_Note_Hellraid_06"
+        },
+        {
+          "id": 3342342,
+          "name": "阿娜特的信件",
+          "internalId": "Collectable_Note_Hellraid_07"
+        },
+        {
+          "id": 3342343,
+          "name": "神选者的命运 - 第一部",
+          "internalId": "Collectable_Note_Hellraid_08"
+        },
+        {
+          "id": 3342344,
+          "name": "神选者的命运 - 第二部",
+          "internalId": "Collectable_Note_Hellraid_09"
+        },
+        {
+          "id": 3342345,
+          "name": "神秘之书",
+          "internalId": "Collectable_Note_Hellraid_10"
+        },
+        {
+          "id": 3342346,
+          "name": "赫克托尔勋爵的探险",
+          "internalId": "Collectable_Note_Hellraid_11"
+        },
+        {
+          "id": 3342347,
+          "name": "赫克托耳勋爵的着魔",
+          "internalId": "Collectable_Note_Hellraid_12"
+        },
+        {
+          "id": 3342348,
+          "name": "赫克托尔勋爵的死亡",
+          "internalId": "Collectable_Note_Hellraid_13"
+        }
+      ]
+    },
+    {
+      "key": "following_outfits",
+      "title": "可收集服装",
+      "scope": "The Following",
+      "description": "已接入当前 1.55 原生 Collectable ID 后端。Data0 映射包含 12 个 CollectableOutfit 定义；v0.1.0 全部展示并按存档 collected-ID 逐项读回。",
+      "supported": true,
+      "items": [
+        {
+          "id": 2484,
+          "name": "H.S.T.D套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_01"
+        },
+        {
+          "id": 2485,
+          "name": "小丑套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_02"
+        },
+        {
+          "id": 2486,
+          "name": "曼荼罗骷髅套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_03"
+        },
+        {
+          "id": 2487,
+          "name": "痞子套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_04"
+        },
+        {
+          "id": 2488,
+          "name": "双E套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_05"
+        },
+        {
+          "id": 2489,
+          "name": "占星师套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_06"
+        },
+        {
+          "id": 2490,
+          "name": "蛇套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_07"
+        },
+        {
+          "id": 2491,
+          "name": "谜题套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_08"
+        },
+        {
+          "id": 2492,
+          "name": "环境保护狂套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_09"
+        },
+        {
+          "id": 2493,
+          "name": "灰红套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_10"
+        },
+        {
+          "id": 2494,
+          "name": "消逝的光芒团队套装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_11"
+        },
+        {
+          "id": 2495,
+          "name": "无事发生涂装",
+          "internalId": "ZZZZ_Collectable_CollectableOutfit_12"
+        }
+      ],
+      "plannedCount": 12
+    },
+    {
+      "key": "following_cult_outfits",
+      "title": "教团服装",
+      "scope": "The Following",
+      "description": "已接入当前 1.55 原生 Collectable ID 后端。3 个 CultOutfit 定义逐项展示/补齐；补齐后以 collected-ID 读回确认。",
+      "supported": true,
+      "items": [
+        {
+          "id": 2436,
+          "name": "陌生人套装",
+          "internalId": "ZZZZ_Collectable_Collectable_CultOutfit_01"
+        },
+        {
+          "id": 2437,
+          "name": "盟友套装",
+          "internalId": "ZZZZ_Collectable_Collectable_CultOutfit_02"
+        },
+        {
+          "id": 2438,
+          "name": "侍僧套装",
+          "internalId": "ZZZZ_Collectable_Collectable_CultOutfit_03"
+        }
+      ],
+      "plannedCount": 3
+    },
+    {
+      "key": "following_paintjobs",
+      "title": "车辆涂装",
+      "scope": "The Following",
+      "description": "已接入当前 1.55 原生 Collectable ID 后端。61 个 Livery 定义逐项展示/补齐，包括世界拾取、任务/奖励来源的映射项。",
+      "supported": true,
+      "items": [
+        {
+          "id": 2459,
+          "name": "蓝色星期一喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_01"
+        },
+        {
+          "id": 2460,
+          "name": "之字喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_02"
+        },
+        {
+          "id": 2461,
+          "name": "三色喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_03"
+        },
+        {
+          "id": 2462,
+          "name": "荧光喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_04"
+        },
+        {
+          "id": 2463,
+          "name": "斑马喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_05"
+        },
+        {
+          "id": 2464,
+          "name": "黄潮喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_06"
+        },
+        {
+          "id": 2465,
+          "name": "比拉尔竞赛喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_07"
+        },
+        {
+          "id": 2466,
+          "name": "脏橙喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_08"
+        },
+        {
+          "id": 2467,
+          "name": "痛击喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_09"
+        },
+        {
+          "id": 2468,
+          "name": "哈兰出租车喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_10"
+        },
+        {
+          "id": 2469,
+          "name": "霹雳喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_11"
+        },
+        {
+          "id": 2470,
+          "name": "炎烤喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_12"
+        },
+        {
+          "id": 2471,
+          "name": "限量版喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_13"
+        },
+        {
+          "id": 2472,
+          "name": "黑寡妇喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_14"
+        },
+        {
+          "id": 2473,
+          "name": "图腾喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_15"
+        },
+        {
+          "id": 2474,
+          "name": "哈兰嬉皮士喷漆",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_16"
+        },
+        {
+          "id": 2475,
+          "name": "AK 涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_17"
+        },
+        {
+          "id": 2476,
+          "name": "朱利涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_18"
+        },
+        {
+          "id": 2477,
+          "name": "卡塔辛涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_19"
+        },
+        {
+          "id": 2478,
+          "name": "柠檬涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_20"
+        },
+        {
+          "id": 2479,
+          "name": "集结棱镜涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_21"
+        },
+        {
+          "id": 2480,
+          "name": "革命涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_22"
+        },
+        {
+          "id": 2481,
+          "name": "S5 涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_23"
+        },
+        {
+          "id": 2482,
+          "name": "车辆涂装 25〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_25"
+        },
+        {
+          "id": 2483,
+          "name": "蓝色绅士涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_26"
+        },
+        {
+          "id": 2780,
+          "name": "愤怒猫咪涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_30"
+        },
+        {
+          "id": 2781,
+          "name": "樱桃炸弹涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_31"
+        },
+        {
+          "id": 2782,
+          "name": "轻骑兵涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_32"
+        },
+        {
+          "id": 2783,
+          "name": "计数符号涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_33"
+        },
+        {
+          "id": 2784,
+          "name": "小小旭日涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_34"
+        },
+        {
+          "id": 2785,
+          "name": "迷彩轻骑兵涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_35"
+        },
+        {
+          "id": 2786,
+          "name": "鲜花炸弹涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_36"
+        },
+        {
+          "id": 2787,
+          "name": "碰撞测试涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_37"
+        },
+        {
+          "id": 2788,
+          "name": "白色头骨涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_38"
+        },
+        {
+          "id": 2789,
+          "name": "美洲狮涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_39"
+        },
+        {
+          "id": 2790,
+          "name": "教徒涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_40"
+        },
+        {
+          "id": 2791,
+          "name": "青蛙涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_41"
+        },
+        {
+          "id": 2792,
+          "name": "消防队涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_42"
+        },
+        {
+          "id": 2793,
+          "name": "全球救援行动组织 (GRE)涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_43"
+        },
+        {
+          "id": 2794,
+          "name": "绝望涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_44"
+        },
+        {
+          "id": 2795,
+          "name": "飞鱼涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_45"
+        },
+        {
+          "id": 2796,
+          "name": "网络女孩涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_46"
+        },
+        {
+          "id": 2797,
+          "name": "母亲涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_47"
+        },
+        {
+          "id": 2798,
+          "name": "Chat 79 涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_48"
+        },
+        {
+          "id": 2799,
+          "name": "嘿！涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_49"
+        },
+        {
+          "id": 2800,
+          "name": "金色涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_50"
+        },
+        {
+          "id": 2801,
+          "name": "救护车涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_51"
+        },
+        {
+          "id": 2802,
+          "name": "警察涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_52"
+        },
+        {
+          "id": 2803,
+          "name": "冬季迷彩涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_53"
+        },
+        {
+          "id": 2804,
+          "name": "哈兰邮报涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_54"
+        },
+        {
+          "id": 2805,
+          "name": "USS Techland 涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_55"
+        },
+        {
+          "id": 2806,
+          "name": "弗罗茨瓦夫团队涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_66"
+        },
+        {
+          "id": 2807,
+          "name": "华沙团队涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_67"
+        },
+        {
+          "id": 2808,
+          "name": "奥斯特鲁夫团队涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_68"
+        },
+        {
+          "id": 2809,
+          "name": "温哥华团队涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_69"
+        },
+        {
+          "id": 2810,
+          "name": "红色涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_70"
+        },
+        {
+          "id": 2811,
+          "name": "蓝色涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_71"
+        },
+        {
+          "id": 2812,
+          "name": "绿色涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_72"
+        },
+        {
+          "id": 2813,
+          "name": "黄色涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_73"
+        },
+        {
+          "id": 2814,
+          "name": "火箭联盟涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_74"
+        },
+        {
+          "id": 2871,
+          "name": "情人节涂装",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_78"
+        }
+      ],
+      "plannedCount": 61
+    },
+    {
+      "key": "following_paintjob_dockets",
+      "title": "涂装兑换项",
+      "scope": "The Following",
+      "description": "已接入当前 1.55 原生 Collectable ID 后端。10 个 Livery Docket 定义逐项展示/补齐并读回。",
+      "supported": true,
+      "items": [
+        {
+          "id": 2815,
+          "name": "涂装兑换项 01〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_01"
+        },
+        {
+          "id": 2816,
+          "name": "涂装兑换项 02〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_02"
+        },
+        {
+          "id": 2817,
+          "name": "涂装兑换项 03〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_03"
+        },
+        {
+          "id": 2818,
+          "name": "涂装兑换项 04〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_04"
+        },
+        {
+          "id": 2819,
+          "name": "涂装兑换项 05〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_05"
+        },
+        {
+          "id": 2820,
+          "name": "涂装兑换项 06〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_06"
+        },
+        {
+          "id": 2821,
+          "name": "涂装兑换项 07〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_07"
+        },
+        {
+          "id": 2822,
+          "name": "涂装兑换项 08〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_08"
+        },
+        {
+          "id": 2823,
+          "name": "涂装兑换项 09〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_09"
+        },
+        {
+          "id": 2824,
+          "name": "涂装兑换项 10〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Livery_Docket_10"
+        }
+      ],
+      "plannedCount": 10
+    },
+    {
+      "key": "following_decorations",
+      "title": "车辆装饰（摇头娃娃 / 挂饰）",
+      "scope": "The Following",
+      "description": "已接入当前 1.55 原生 Collectable ID 后端。20 个 Decoration 定义（摇头娃娃 / 挂饰等）逐项展示/补齐。",
+      "supported": true,
+      "items": [
+        {
+          "id": 2439,
+          "name": "艾吉的吉祥物护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_01"
+        },
+        {
+          "id": 2440,
+          "name": "子弹护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_02"
+        },
+        {
+          "id": 2441,
+          "name": "丧尸骷髅护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_03"
+        },
+        {
+          "id": 2442,
+          "name": "亚西尔摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_04"
+        },
+        {
+          "id": 2443,
+          "name": "骷髅狼牙棒护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_05"
+        },
+        {
+          "id": 2444,
+          "name": "磁带护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_06"
+        },
+        {
+          "id": 2445,
+          "name": "雷·麦考摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_07"
+        },
+        {
+          "id": 2446,
+          "name": "塔希尔摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_08"
+        },
+        {
+          "id": 2447,
+          "name": "丧尸摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_09"
+        },
+        {
+          "id": 2448,
+          "name": "比拉尔摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_10"
+        },
+        {
+          "id": 2449,
+          "name": "艾吉摇头娃娃",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_11"
+        },
+        {
+          "id": 2450,
+          "name": "小鸡护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_12"
+        },
+        {
+          "id": 2451,
+          "name": "枫叶护符",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_13"
+        },
+        {
+          "id": 2452,
+          "name": "车辆装饰 14〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_14"
+        },
+        {
+          "id": 2453,
+          "name": "车辆装饰 15〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_15"
+        },
+        {
+          "id": 2454,
+          "name": "车辆装饰 16〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_16"
+        },
+        {
+          "id": 2455,
+          "name": "车辆装饰 17〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_17"
+        },
+        {
+          "id": 2456,
+          "name": "车辆装饰 18〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_18"
+        },
+        {
+          "id": 2457,
+          "name": "车辆装饰 19〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_19"
+        },
+        {
+          "id": 2458,
+          "name": "车辆装饰 20〔暂无官方简中映射〕",
+          "internalId": "ZZZZ_Collectable_Collectable_Decoration_20"
+        }
+      ],
+      "plannedCount": 20
+    },
+    {
+      "key": "following_missing_persons",
+      "title": "失踪人口",
+      "scope": "The Following",
+      "description": "The Following 失踪人口共 9 项。当前已知 DLL/CT 不包含经确认的 9 项可写 collected-ID；v0.1.1 提供原生只读 A/B（采样 A → 游戏内真实发现 1 人 → 采样 B），仅逐项保存真实新增 ID。已确认 ID 逐项显示 ✓/×；未确认项不伪造，不开放盲目批量写入。",
+      "supported": false,
+      "items": [],
+      "plannedCount": 9
+    },
+    {
+      "key": "following_strange_rocks",
+      "title": "奇怪岩石",
+      "scope": "The Following",
+      "description": "The Following 奇怪岩石/外星复活节彩蛋共 15 项。当前 DLL/CT 没有经过存档验证的 15 项列表；v0.1.1 提供 A/B（采样 A → 实际拿到/放置 1 块岩石 → 采样 B），对比 collected-ID 与运行时对象。未验证的不计入已解锁，不会把 BaseItem 索引错误写为 collected-ID。",
+      "supported": false,
+      "items": [],
+      "plannedCount": 15
+    },
+    {
+      "key": "following_blueprints",
+      "title": "蓝图 / CraftPlan",
+      "scope": "全游戏 / DLC",
+      "description": "蓝图/CraftPlan 不等于背包中的 Craftplan_* 定义。v0.1.1 列举当前已加载的全部 Craftplan_* 内部 ID；已学数量在未定位真实持久状态前显示 ?。可针对游戏内正常学习一张蓝图进行 A/B 采样，输出运行时差异并继续定位；暂不支持虚报已学进度或批量盲写。",
+      "supported": false,
+      "items": [],
+      "plannedCount": 0
+    }
+  ]
+}

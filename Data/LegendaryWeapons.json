@@ -1,0 +1,314 @@
+[
+  {
+    "category": "近战·钝器",
+    "name": "警棍（传奇）",
+    "internalId": "Melee_BatonALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "撬棍（传奇）",
+    "internalId": "Melee_CrowbarALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "扳手（传奇）",
+    "internalId": "Melee_WrenchALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "棒球棍（传奇）",
+    "internalId": "Melee_BaseballBatBLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "铁锤（传奇）",
+    "internalId": "Melee_HammerCLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "大锤 C（传奇）",
+    "internalId": "Melee_BigHammerCLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "大锤 D（传奇）",
+    "internalId": "Melee_BigHammerDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·钝器",
+    "name": "大锤 E（传奇）",
+    "internalId": "Melee_BigHammerELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "弯刀（传奇）",
+    "internalId": "Melee_MacheteALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "长匕首 B（传奇）",
+    "internalId": "Melee_KnifeBLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "长匕首 C（传奇）",
+    "internalId": "Melee_KnifeCLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "长匕首 D（传奇）",
+    "internalId": "Melee_KnifeDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "长匕首 E（传奇）",
+    "internalId": "Melee_KnifeELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短刀 A（传奇）",
+    "internalId": "Melee_ShortKnifeALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短刀 B（传奇）",
+    "internalId": "Melee_ShortKnifeBLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短刀 C（传奇）",
+    "internalId": "Melee_ShortKnifeCLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短刀 D（传奇）",
+    "internalId": "Melee_ShortKnifeDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短刀 E（传奇）",
+    "internalId": "Melee_ShortKnifeELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "菜刀（传奇）",
+    "internalId": "Melee_CleaverELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短斧 D（传奇）",
+    "internalId": "Melee_ShortAxeDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "短斧 E（传奇）",
+    "internalId": "Melee_ShortAxeELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "大斧 A（传奇）",
+    "internalId": "Melee_AxeBigALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "大斧 D（传奇）",
+    "internalId": "Melee_AxeBigDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "镰刀（传奇）",
+    "internalId": "Melee_ScytheALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "镰 A（传奇）",
+    "internalId": "Melee_SickleALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "镰 D（传奇）",
+    "internalId": "Melee_SickleDLegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·刃器",
+    "name": "镰 E（传奇）",
+    "internalId": "Melee_SickleELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·工具",
+    "name": "手锯（传奇）",
+    "internalId": "Melee_HandsawALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·工具",
+    "name": "军用铲（传奇）",
+    "internalId": "Melee_MilitaryShovelALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·工具",
+    "name": "镐 E（传奇）",
+    "internalId": "Melee_PickELegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·工具",
+    "name": "PickAxe A（传奇）",
+    "internalId": "Melee_PickAxeALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "近战·工具",
+    "name": "十字镐 A（传奇）",
+    "internalId": "Melee_PickaxeALegendary1",
+    "note": "当前 Data0.pak 中存在的 Legendary 默认变体"
+  },
+  {
+    "category": "枪械·手枪",
+    "name": "普通手枪 A",
+    "internalId": "Firearm_PistolAGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·手枪",
+    "name": "普通手枪 B",
+    "internalId": "Firearm_PistolBGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·手枪",
+    "name": "消音手枪 A",
+    "internalId": "Firearm_PistolASilenced",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·手枪",
+    "name": "消音手枪 B",
+    "internalId": "Firearm_PistolBSilenced",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·手枪",
+    "name": "Rais 手枪",
+    "internalId": "Firearm_Rais_Gun",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·左轮",
+    "name": "Gaas 左轮",
+    "internalId": "Firearm_Gaas_Revolver",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·左轮",
+    "name": "快枪手左轮",
+    "internalId": "Firearm_RevolverQuickshooter",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·左轮",
+    "name": "游骑兵左轮",
+    "internalId": "Firearm_RevolverRanger",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·左轮",
+    "name": "六发左轮",
+    "internalId": "Firearm_RevolverSixshooter",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·步枪",
+    "name": "突击步枪 A",
+    "internalId": "Firearm_RifleAGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·步枪",
+    "name": "突击步枪 B",
+    "internalId": "Firearm_RifleBGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·步枪",
+    "name": "M16",
+    "internalId": "Firearm_M16",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·步枪",
+    "name": "战术步枪",
+    "internalId": "Firearm_Rifle_Tactical",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·霰弹枪",
+    "name": "霰弹枪 A",
+    "internalId": "Firearm_ShotgunAGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·霰弹枪",
+    "name": "霰弹枪 B",
+    "internalId": "Firearm_ShotgunBGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·霰弹枪",
+    "name": "霰弹枪 C",
+    "internalId": "Firearm_ShotgunCGen",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·冲锋枪",
+    "name": "冲锋枪 A",
+    "internalId": "Firearm_SubmachineA",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "枪械·冲锋枪",
+    "name": "冲锋枪 B",
+    "internalId": "Firearm_SubmachineB",
+    "note": "当前 Data0.pak 中存在的枪械默认/特殊定义"
+  },
+  {
+    "category": "远程",
+    "name": "复合弓",
+    "internalId": "ZZZZ_Bow_Composite",
+    "note": "当前 Data0.pak 中存在的远程武器定义"
+  },
+  {
+    "category": "远程",
+    "name": "升级弩",
+    "internalId": "ZZZZ3_Crossbow_Upgraded",
+    "note": "当前 Data0.pak 中存在的远程武器定义"
+  }
+]

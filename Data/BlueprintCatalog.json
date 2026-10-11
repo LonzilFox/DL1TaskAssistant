@@ -1,0 +1,1787 @@
+﻿[
+  {
+    "internalId": "Craftplan_AddOn_Knife_WildWest",
+    "name": "副警长",
+    "token": "Craftplan_AddOn_Knife_WildWest_N",
+    "uniqueSaveId": 3092,
+    "source": "collectables_dlc38.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Knife_Winter",
+    "name": "噬咬暴雪",
+    "token": "Craftplan_AddOn_Knife_Winter_N",
+    "uniqueSaveId": 3089,
+    "source": "collectables_dlc37.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Machete_Winter",
+    "name": "刺骨寒霜",
+    "token": "Craftplan_AddOn_Machete_Winter_N",
+    "uniqueSaveId": 3088,
+    "source": "collectables_dlc37.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Revolver_WildWest",
+    "name": "玛瑙霹雳",
+    "token": "Craftplan_AddOn_Revolver_WildWest_N",
+    "uniqueSaveId": 3091,
+    "source": "collectables_dlc38.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Rifle_Winter",
+    "name": "冬季风暴",
+    "token": "Craftplan_AddOn_Rifle_Winter_N",
+    "uniqueSaveId": 3087,
+    "source": "collectables_dlc37.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Shotgun_WildWest",
+    "name": "破誓者",
+    "token": "Craftplan_AddOn_Shotgun_WildWest_N",
+    "uniqueSaveId": 3090,
+    "source": "collectables_dlc38.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Shotgun_WildWest_Gunslinger",
+    "name": "正中红心",
+    "token": "Craftplan_AddOn_Shotgun_WildWest_Gunslinger_N",
+    "uniqueSaveId": 3093,
+    "source": "collectables_dlc38.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Silenced_PistolA",
+    "name": "德式 9 毫米消音手枪",
+    "token": "Craftplan_AddOn_Silenced_PistolA_N",
+    "uniqueSaveId": 3085,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_Silenced_PistolB",
+    "name": "美式 9 毫米消音手枪",
+    "token": "Craftplan_AddOn_Silenced_PistolB_N",
+    "uniqueSaveId": 3086,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_AddOn_SubsonicAmmo",
+    "name": "亚音速弹药〔暂无官方简中映射〕",
+    "token": "Craftplan_AddOn_SubsonicAmmo_N",
+    "uniqueSaveId": 7006,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_AirportSecurity",
+    "name": "空港警卫",
+    "token": "Craftplan_AirportSecurity_N",
+    "uniqueSaveId": 28,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_AllInOne",
+    "name": "三合一",
+    "token": "Craftplan_AllInOne_N",
+    "uniqueSaveId": 79,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_AngelSword",
+    "name": "天使之剑",
+    "token": "Craftplan_AngelSword_N",
+    "uniqueSaveId": 75,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_AntPotion",
+    "name": "速度强化剂",
+    "token": "Craftplan_AntPotion_N",
+    "uniqueSaveId": 17,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowBurn_NightHunter",
+    "name": "游骑兵左轮的燃烧箭",
+    "token": "Craftplan_ArrowBurn_NightHunter_N",
+    "uniqueSaveId": 107,
+    "source": "collectables_dlc30.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowBurn_Savvy",
+    "name": "LED Meta燃烧箭",
+    "token": "Craftplan_ArrowBurn_Savvy_N",
+    "uniqueSaveId": 112,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowElectric_NightHunter",
+    "name": "游骑兵左轮的电箭",
+    "token": "Craftplan_ArrowElectric_NightHunter_N",
+    "uniqueSaveId": 108,
+    "source": "collectables_dlc30.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowElectric_Savvy",
+    "name": "LED Meta电箭",
+    "token": "Craftplan_ArrowElectric_Savvy_N",
+    "uniqueSaveId": 113,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowExploding_NightHunter",
+    "name": "游骑兵左轮的爆炸箭",
+    "token": "Craftplan_ArrowExploding_NightHunter_N",
+    "uniqueSaveId": 109,
+    "source": "collectables_dlc30.scr"
+  },
+  {
+    "internalId": "Craftplan_ArrowExploding_Savvy",
+    "name": "LED Meta爆炸箭",
+    "token": "Craftplan_ArrowExploding_Savvy_N",
+    "uniqueSaveId": 114,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_Arrow_NightHunter",
+    "name": "游骑兵左轮的箭",
+    "token": "Craftplan_Arrow_NightHunter_N",
+    "uniqueSaveId": 106,
+    "source": "collectables_dlc30.scr"
+  },
+  {
+    "internalId": "Craftplan_Arrow_Savvy",
+    "name": "LED Meta箭",
+    "token": "Craftplan_Arrow_Savvy_N",
+    "uniqueSaveId": 111,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_BadAss",
+    "name": "大坏蛋",
+    "token": "Craftplan_BadAss_N",
+    "uniqueSaveId": 70,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BadHangover",
+    "name": "头疼欲裂",
+    "token": "Craftplan_BadHangover_N",
+    "uniqueSaveId": 64,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Barbershop",
+    "name": "理发店",
+    "token": "Craftplan_Barbershop_N",
+    "uniqueSaveId": 45,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BatonANighthunter",
+    "name": "夜魔猎手警棍",
+    "token": "Craftplan_BatonANighthunter_N",
+    "uniqueSaveId": 3077,
+    "source": "collectables_dlc32.scr"
+  },
+  {
+    "internalId": "Craftplan_BigHammerANighthunter",
+    "name": "夜魔猎手大槌",
+    "token": "Craftplan_BigHammerANighthunter_N",
+    "uniqueSaveId": 3078,
+    "source": "collectables_dlc32.scr"
+  },
+  {
+    "internalId": "Craftplan_BigHammer_Anniversary5",
+    "name": "羽毛",
+    "token": "Craftplan_BigHammer_Anniversary5_N",
+    "uniqueSaveId": 9590,
+    "source": "collectables_dlc50.scr"
+  },
+  {
+    "internalId": "Craftplan_BlastMelee",
+    "name": "特别快球",
+    "token": "Craftplan_BlastMelee_N",
+    "uniqueSaveId": 16,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BleedMelee",
+    "name": "工业级水蛭",
+    "token": "Craftplan_BleedMelee_N",
+    "uniqueSaveId": 13,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Bomb",
+    "name": "自制手雷",
+    "token": "Craftplan_Bomb_N",
+    "uniqueSaveId": 7,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BombFireCrackers",
+    "name": "爆裂陷阱炸弹",
+    "token": "Craftplan_BombFireCrackers_N",
+    "uniqueSaveId": 57,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Bow_Savvy",
+    "name": "LED Meta弓",
+    "token": "Craftplan_Bow_Savvy_N",
+    "uniqueSaveId": 4003,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_Bow_UrbanTrapper",
+    "name": "游骑兵左轮弓",
+    "token": "Craftplan_Bow_UrbanTrapper_N",
+    "uniqueSaveId": 3079,
+    "source": "collectables_dlc30.scr"
+  },
+  {
+    "internalId": "Craftplan_Bullet_Grenade_Launcher_Freeze",
+    "name": "雪暴弹药",
+    "token": "Craftplan_Bullet_Grenade_Launcher_Freeze_N",
+    "uniqueSaveId": 10008,
+    "source": "collectables_dlc65.scr"
+  },
+  {
+    "internalId": "Craftplan_Bullet_Pistol_VanCrane",
+    "name": "白银子弹",
+    "token": "Craftplan_Bullet_Pistol_VanCrane_N",
+    "uniqueSaveId": 10006,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_BurnMelee",
+    "name": "普通地狱火",
+    "token": "Craftplan_BurnMelee_N",
+    "uniqueSaveId": 15,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BurningShuriken",
+    "name": "火焰流星镖",
+    "token": "Craftplan_BurningShuriken_N",
+    "uniqueSaveId": 9,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_BuzzKiller",
+    "name": "圆锯杀手",
+    "token": "Craftplan_BuzzKiller_N",
+    "uniqueSaveId": 3001,
+    "source": "collectables_dlc4.scr"
+  },
+  {
+    "internalId": "Craftplan_CattleStamp",
+    "name": "母牛印记",
+    "token": "Craftplan_CattleStamp_N",
+    "uniqueSaveId": 47,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Chainsaw",
+    "name": "血腥之锯",
+    "token": "Craftplan_Chainsaw_N",
+    "uniqueSaveId": 100013,
+    "source": "collectables_dlc66.scr"
+  },
+  {
+    "internalId": "Craftplan_Chainsaw_Ammo",
+    "name": "血腥之锯燃料",
+    "token": "Craftplan_Chainsaw_Ammo_N",
+    "uniqueSaveId": 100014,
+    "source": "collectables_dlc66.scr"
+  },
+  {
+    "internalId": "Craftplan_Cloak_Bomber",
+    "name": "达利亚的肾脏药剂",
+    "token": "Craftplan_Cloak_Bomber_N",
+    "uniqueSaveId": 93,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Cloak_Goon",
+    "name": "达利亚的肝脏药剂",
+    "token": "Craftplan_Cloak_Goon_N",
+    "uniqueSaveId": 92,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Cloak_Mushrooms",
+    "name": "达利亚的蘑菇药剂",
+    "token": "Craftplan_Cloak_Mushrooms_N",
+    "uniqueSaveId": 91,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Cloak_Prime",
+    "name": "隐匿药剂",
+    "token": "Craftplan_Cloak_Prime_N",
+    "uniqueSaveId": 85,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Cloud9",
+    "name": "九霄云外",
+    "token": "Craftplan_Cloud9_N",
+    "uniqueSaveId": 21,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltImpact_SHU",
+    "name": "阵风冲击箭",
+    "token": "Craftplan_Crossbow_BoltImpact_SHU_N",
+    "uniqueSaveId": 9626,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltImpact_VanCrane",
+    "name": "穿心弩 冲击弩箭",
+    "token": "Craftplan_Crossbow_BoltImpact_VanCrane_N",
+    "uniqueSaveId": 10012,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltPoison_SHU",
+    "name": "阵风毒箭",
+    "token": "Craftplan_Crossbow_BoltPoison_SHU_N",
+    "uniqueSaveId": 9624,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltPoison_VanCrane",
+    "name": "穿心弩 剧毒弩箭",
+    "token": "Craftplan_Crossbow_BoltPoison_VanCrane_N",
+    "uniqueSaveId": 10010,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltStunning_SHU",
+    "name": "阵风眩晕弩箭",
+    "token": "Craftplan_Crossbow_BoltStunning_SHU_N",
+    "uniqueSaveId": 9625,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_BoltStunning_VanCrane",
+    "name": "穿心弩 眩晕弩箭",
+    "token": "Craftplan_Crossbow_BoltStunning_VanCrane_N",
+    "uniqueSaveId": 10011,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_Bolt_SHU",
+    "name": "阵风常规弩箭",
+    "token": "Craftplan_Crossbow_Bolt_SHU_N",
+    "uniqueSaveId": 9623,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_Bolt_VanCrane",
+    "name": "穿心弩 常规弩箭",
+    "token": "Craftplan_Crossbow_Bolt_VanCrane_N",
+    "uniqueSaveId": 10009,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_SHU",
+    "name": "阵风",
+    "token": "Craftplan_Crossbow_SHU_N",
+    "uniqueSaveId": 9622,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Crossbow_VanCrane",
+    "name": "穿心弩",
+    "token": "Craftplan_Crossbow_VanCrane_N",
+    "uniqueSaveId": 10003,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_CutNGo",
+    "name": "随切随走",
+    "token": "Craftplan_CutNGo_N",
+    "uniqueSaveId": 53,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Dentist",
+    "name": "牙医",
+    "token": "Craftplan_Dentist_N",
+    "uniqueSaveId": 23,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Dev1",
+    "name": "静止力场发射器",
+    "token": "Craftplan_Dev1_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_DevAirStrike",
+    "name": "空袭",
+    "token": "Craftplan_DevAirStrike_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_DevExcalibour",
+    "name": "EXP 石中剑",
+    "token": "Craftplan_DevExcalibour_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_DevKorekMachete",
+    "name": "科雷克砍刀",
+    "token": "Craftplan_DevKorekMachete_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_DevRHofgloVA",
+    "name": "格洛瓦的右蛋蛋",
+    "token": "Craftplan_DevRHofgloVA_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_DevSquirell",
+    "name": "派扎套装",
+    "token": "Craftplan_DevSquirell_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_Dieselpunk_Submachine",
+    "name": "上油工",
+    "token": "Craftplan_Dieselpunk_Submachine_N",
+    "uniqueSaveId": 100016,
+    "source": "collectables_dlc66.scr"
+  },
+  {
+    "internalId": "Craftplan_Dieselpunk_Submachine_Ammo",
+    "name": "上油工弹药",
+    "token": "Craftplan_Dieselpunk_Submachine_Ammo_N",
+    "uniqueSaveId": 100017,
+    "source": "collectables_dlc66.scr"
+  },
+  {
+    "internalId": "Craftplan_ElectriCutter",
+    "name": "电剪",
+    "token": "Craftplan_ElectriCutter_N",
+    "uniqueSaveId": 83,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ElectricMelee",
+    "name": "本·富兰克林的钥匙",
+    "token": "Craftplan_ElectricMelee_N",
+    "uniqueSaveId": 14,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ElectricShield",
+    "name": "特斯拉盾牌",
+    "token": "Craftplan_ElectricShield_N",
+    "uniqueSaveId": 89,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Electrician",
+    "name": "电气技师",
+    "token": "Craftplan_Electrician_N",
+    "uniqueSaveId": 30,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Electrocutioner",
+    "name": "电刑",
+    "token": "Craftplan_Electrocutioner_N",
+    "uniqueSaveId": 31,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Event_GREBoost",
+    "name": "GRE配方",
+    "token": "Craftplan_Event_GREBoost_N",
+    "uniqueSaveId": 9569,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_ExplodingShuriken",
+    "name": "爆炸流星镖",
+    "token": "Craftplan_ExplodingShuriken_N",
+    "uniqueSaveId": 10,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FilthyBlade",
+    "name": "肮脏之刃",
+    "token": "Craftplan_FilthyBlade_N",
+    "uniqueSaveId": 65,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FireCrackers",
+    "name": "爆竹",
+    "token": "Craftplan_FireCrackers_N",
+    "uniqueSaveId": 3,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FireLauncher",
+    "name": "火焰发射器",
+    "token": "Craftplan_FireLauncher_N",
+    "uniqueSaveId": 68,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Grenade_Launcher_Freeze",
+    "name": "雪暴",
+    "token": "Craftplan_Firearm_Grenade_Launcher_Freeze_N",
+    "uniqueSaveId": 10007,
+    "source": "collectables_dlc65.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_PistolAGodFather",
+    "name": "参谋",
+    "token": "Craftplan_Firearm_PistolAGodFather_N",
+    "uniqueSaveId": 9539,
+    "source": "collectables_dlc43.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_PistolARaisElite",
+    "name": "幼狼",
+    "token": "Craftplan_Firearm_PistolARaisElite_N",
+    "uniqueSaveId": 9542,
+    "source": "collectables_dlc42.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_PistolASilenced_SpecialAgent",
+    "name": "撕裂低语",
+    "token": "Craftplan_Firearm_PistolASilenced_SpecialAgent_N",
+    "uniqueSaveId": 9923,
+    "source": "collectables_dlc57.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Pistol_Astronaut",
+    "name": "V-40 迫停者",
+    "token": "Craftplan_Firearm_Pistol_Astronaut_N",
+    "uniqueSaveId": 10001,
+    "source": "collectables_dlc62.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Pistol_Space_Commando",
+    "name": "Volkan 战斗手枪",
+    "token": "Craftplan_Firearm_Pistol_Space_Commando_N",
+    "uniqueSaveId": 9692,
+    "source": "collectables_dlc53.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Pistol_VanCrane",
+    "name": "黎明之光",
+    "token": "Craftplan_Firearm_Pistol_VanCrane_N",
+    "uniqueSaveId": 10004,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Revolver_Anniversary10",
+    "name": "日耀",
+    "token": "Craftplan_Firearm_Revolver_Anniversary10_N",
+    "uniqueSaveId": 100019,
+    "source": "collectables_dlc67.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Revolver_Retro",
+    "name": "Vindicator 2000",
+    "token": "Craftplan_Firearm_Revolver_Retro_N",
+    "uniqueSaveId": 9611,
+    "source": "collectables_dlc47.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_RifleA_RaisElite",
+    "name": "阿尔法",
+    "token": "Craftplan_Firearm_RifleA_RaisElite_N",
+    "uniqueSaveId": 9540,
+    "source": "collectables_dlc42.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Rifle_Astronaut",
+    "name": "宇航员步枪〔暂无官方简中映射〕",
+    "token": "Craftplan_Firearm_Rifle_Astronaut_DLC_N",
+    "uniqueSaveId": 10000,
+    "source": "collectables_dlc62.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Rifle_Retro",
+    "name": "Volkatronix",
+    "token": "Craftplan_Firearm_Rifle_Retro_N",
+    "uniqueSaveId": 9612,
+    "source": "collectables_dlc47.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Rifle_Space_Commando",
+    "name": "Volkan 战斗突击步枪",
+    "token": "Craftplan_Firearm_Rifle_Space_Commando_N",
+    "uniqueSaveId": 9693,
+    "source": "collectables_dlc53.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Rifle_Tactical",
+    "name": "HTU“守护者”步枪",
+    "token": "Craftplan_Firearm_Rifle_Tactical_N",
+    "uniqueSaveId": 9931,
+    "source": "collectables_dlc59.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_ShotgunAGen_AddOn_PostApo",
+    "name": "末日主题霰弹枪〔暂无官方简中映射〕",
+    "token": "Craftplan_Firearm_ShotgunAGen_AddOn_PostApo_N",
+    "uniqueSaveId": 3094,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_ShotgunHellraid",
+    "name": "死亡使者",
+    "token": "Craftplan_Firearm_ShotgunHellraid_N",
+    "uniqueSaveId": 11015,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Shotgun_Anniversary10",
+    "name": "破晓者",
+    "token": "Craftplan_Firearm_Shotgun_Anniversary10_N",
+    "uniqueSaveId": 100018,
+    "source": "collectables_dlc67.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Shotgun_Ox",
+    "name": "公牛炮",
+    "token": "Craftplan_Firearm_Shotgun_Ox_N",
+    "uniqueSaveId": 9930,
+    "source": "collectables_dlc58.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_Shotgun_Tactical",
+    "name": "HTU“派遣者”霰弹枪",
+    "token": "Craftplan_Firearm_Shotgun_Tactical_N",
+    "uniqueSaveId": 9932,
+    "source": "collectables_dlc59.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_SubmachineA_SpecialAgent",
+    "name": "死亡之翼",
+    "token": "Craftplan_Firearm_SubmachineA_SpecialAgent_N",
+    "uniqueSaveId": 9922,
+    "source": "collectables_dlc57.scr"
+  },
+  {
+    "internalId": "Craftplan_Firearm_SubmachineBGodFather",
+    "name": "家族之仇",
+    "token": "Craftplan_Firearm_SubmachineBGodFather_N",
+    "uniqueSaveId": 9537,
+    "source": "collectables_dlc43.scr"
+  },
+  {
+    "internalId": "Craftplan_FlameBlade",
+    "name": "火焰剑",
+    "token": "Craftplan_FlameBlade_N",
+    "uniqueSaveId": 39,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FlapClap",
+    "name": "急速振击",
+    "token": "Craftplan_FlapClap_N",
+    "uniqueSaveId": 46,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Flare",
+    "name": "照明弹",
+    "token": "Craftplan_Flare_N",
+    "uniqueSaveId": 6,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FreezeBomb",
+    "name": "冰冻手雷",
+    "token": "Craftplan_FreezeBomb_N",
+    "uniqueSaveId": 54,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FreezeShield",
+    "name": "冰冻盾牌",
+    "token": "Craftplan_FreezeShield_N",
+    "uniqueSaveId": 90,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_FreezingShuriken",
+    "name": "冰冻流星镖",
+    "token": "Craftplan_FreezingShuriken_N",
+    "uniqueSaveId": 11,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_GTFO",
+    "name": "捋你命",
+    "token": "Craftplan_GTFO_N",
+    "uniqueSaveId": 51,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_GTFO20",
+    "name": "捋你命 2.0",
+    "token": "Craftplan_GTFO20_N",
+    "uniqueSaveId": 69,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Gaas_Halloween_Shotgun",
+    "name": "Gemly 万圣节霰弹枪皮肤",
+    "token": "Craftplan_Gaas_Halloween_Shotgun_N",
+    "uniqueSaveId": 3083,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_Gaas_Halloween_Sickle",
+    "name": "Gemly 万圣节镰刀皮肤",
+    "token": "Craftplan_Gaas_Halloween_Sickle_N",
+    "uniqueSaveId": 3084,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_GetMedieval",
+    "name": "骑士精神",
+    "token": "Craftplan_GetMedieval_N",
+    "uniqueSaveId": 44,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_GhulPotion",
+    "name": "暗夜猎手强化剂",
+    "token": "Craftplan_GhulPotion_N",
+    "uniqueSaveId": 87,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_GlowingStick",
+    "name": "发光棒",
+    "token": "Craftplan_GlowingStick_N",
+    "uniqueSaveId": 72,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_GodHammer",
+    "name": "天神之锤",
+    "token": "Craftplan_GodHammer_N",
+    "uniqueSaveId": 73,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Grandmas_Eggnog",
+    "name": "奶奶的蛋奶酒",
+    "token": "Craftplan_Grandmas_Eggnog_N",
+    "uniqueSaveId": 9559,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_GrillemAndKillem",
+    "name": "烧光杀光",
+    "token": "Craftplan_GrillemAndKillem_N",
+    "uniqueSaveId": 74,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_HMR_Gaas",
+    "name": "哈兰军用步枪",
+    "token": "Craftplan_HMR_Gaas_N",
+    "uniqueSaveId": 3081,
+    "source": "collectables_dlc36.scr"
+  },
+  {
+    "internalId": "Craftplan_HRBigAxe_R10_SHOP",
+    "name": "史尔特尔",
+    "token": "Craftplan_HRBigAxe_R10_SHOP_N",
+    "uniqueSaveId": 11010,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRBigAxe_R8_SHOP",
+    "name": "裂狱者",
+    "token": "Craftplan_HRBigAxe_R8_SHOP_N",
+    "uniqueSaveId": 11008,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRBigHammer_R13_SHOP",
+    "name": "碾骨者",
+    "token": "Craftplan_HRBigHammer_R13_SHOP_N",
+    "uniqueSaveId": 11013,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRBow_R13",
+    "name": "腐化正义",
+    "token": "Craftplan_HRBow_R13_N",
+    "uniqueSaveId": 9701,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRHammer_R9_SHOP",
+    "name": "战槌",
+    "token": "Craftplan_HRHammer_R9_SHOP_N",
+    "uniqueSaveId": 11009,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRKhopesh_R2_SHOP",
+    "name": "开膛者",
+    "token": "Craftplan_HRKhopesh_R2_SHOP_N",
+    "uniqueSaveId": 11002,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRLongSword_R7_SHOP",
+    "name": "远征者之悔",
+    "token": "Craftplan_HRLongSword_R7_SHOP_N",
+    "uniqueSaveId": 11007,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRMace_R12_SHOP",
+    "name": "雷鹰",
+    "token": "Craftplan_HRMace_R12_SHOP_N",
+    "uniqueSaveId": 11012,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRMace_R5_SHOP",
+    "name": "碎颅者",
+    "token": "Craftplan_HRMace_R5_SHOP_N",
+    "uniqueSaveId": 11005,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRScepter_R3_SHOP",
+    "name": "恐怖权杖",
+    "token": "Craftplan_HRScepter_R3_SHOP_N",
+    "uniqueSaveId": 11003,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRShortAxe_R4_SHOP",
+    "name": "断肢者",
+    "token": "Craftplan_HRShortAxe_R4_SHOP_N",
+    "uniqueSaveId": 11004,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRSword_R11_SHOP",
+    "name": "闪电天鹅",
+    "token": "Craftplan_HRSword_R11_SHOP_N",
+    "uniqueSaveId": 9700,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRSword_R11_Without_HR",
+    "name": "Hellraid 长剑（非地狱突袭）〔暂无官方简中映射〕",
+    "token": "",
+    "uniqueSaveId": 10016,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_HRSword_R1_SHOP",
+    "name": "残忍之刃",
+    "token": "Craftplan_HRSword_R1_SHOP_N",
+    "uniqueSaveId": 11001,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRSword_R6_SHOP",
+    "name": "凶徒之剑",
+    "token": "Craftplan_HRSword_R6_SHOP_N",
+    "uniqueSaveId": 11006,
+    "source": "collectables_dlc49.scr"
+  },
+  {
+    "internalId": "Craftplan_HRW_Melee_Scepter",
+    "name": "恐怖权杖",
+    "token": "Craftplan_HRW_Melee_Scepter_N",
+    "uniqueSaveId": 9801,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_HeavyWelder",
+    "name": "重型焊机",
+    "token": "Craftplan_HeavyWelder_N",
+    "uniqueSaveId": 41,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_HolyGhost",
+    "name": "驱魔者",
+    "token": "Craftplan_HolyGhost_N",
+    "uniqueSaveId": 82,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_HomeRun",
+    "name": "本垒打",
+    "token": "Craftplan_HomeRun_N",
+    "uniqueSaveId": 50,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_HyenaPotion",
+    "name": "夜视强化剂",
+    "token": "Craftplan_HyenaPotion_N",
+    "uniqueSaveId": 18,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ImpactShield",
+    "name": "巨刃盾牌",
+    "token": "Craftplan_ImpactShield_N",
+    "uniqueSaveId": 88,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_KnifeBNighthunter",
+    "name": "夜魔猎手匕首",
+    "token": "Craftplan_KnifeBNighthunter_N",
+    "uniqueSaveId": 3076,
+    "source": "collectables_dlc32.scr"
+  },
+  {
+    "internalId": "Craftplan_KurtBomb",
+    "name": "科特的炸弹",
+    "token": "Craftplan_KurtBomb_N",
+    "uniqueSaveId": 102,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Electric_Guitar",
+    "name": "电吉他",
+    "token": "Craftplan_L4D_Electric_Guitar_N",
+    "uniqueSaveId": 9552,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Electric_Guitar_DLC",
+    "name": "求生之路电吉他（DLC）〔暂无官方简中映射〕",
+    "token": "Craftplan_L4D_Electric_Guitar_DLC_N",
+    "uniqueSaveId": 9555,
+    "source": "collectables_dlc44.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Frying_Pan",
+    "name": "平底锅",
+    "token": "Craftplan_L4D_Frying_Pan_N",
+    "uniqueSaveId": 9551,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Frying_Pan_DLC",
+    "name": "求生之路平底锅（DLC）〔暂无官方简中映射〕",
+    "token": "Craftplan_L4D_Frying_Pan_DLC_N",
+    "uniqueSaveId": 9554,
+    "source": "collectables_dlc44.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Gnome",
+    "name": "地精乔姆斯基",
+    "token": "Craftplan_L4D_Gnome_DLC_N",
+    "uniqueSaveId": 9571,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Gnome_DLC",
+    "name": "地精乔姆斯基",
+    "token": "Craftplan_L4D_Gnome_DLC_N",
+    "uniqueSaveId": 9570,
+    "source": "collectables_dlc56.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Golf_Club",
+    "name": "高尔夫球杆",
+    "token": "Craftplan_L4D_Golf_Club_N",
+    "uniqueSaveId": 9550,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_L4D_Golf_Club_DLC",
+    "name": "求生之路高尔夫球杆（DLC）〔暂无官方简中映射〕",
+    "token": "Craftplan_L4D_Golf_Club_DLC_N",
+    "uniqueSaveId": 9553,
+    "source": "collectables_dlc44.scr"
+  },
+  {
+    "internalId": "Craftplan_Lacerator",
+    "name": "撕裂者",
+    "token": "Craftplan_Lacerator_N",
+    "uniqueSaveId": 3004,
+    "source": "collectables_dlc6.scr"
+  },
+  {
+    "internalId": "Craftplan_LightingRod",
+    "name": "闪光骑士",
+    "token": "Craftplan_LightingRod_N",
+    "uniqueSaveId": 84,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Liveops_Christmas_Candy_Crusher",
+    "name": "糖果破碎机",
+    "token": "Craftplan_Liveops_Christmas_Candy_Crusher_N",
+    "uniqueSaveId": 3087,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_Lockpick",
+    "name": "开锁",
+    "token": "Craftplan_Lockpick_N",
+    "uniqueSaveId": 2,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_MedKit_Algae",
+    "name": "索菲亚的治疗配方",
+    "token": "Craftplan_MedKit_Algae_N",
+    "uniqueSaveId": 103,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_MedKit_Large_Healing",
+    "name": "医疗包",
+    "token": "Craftplan_MedKit_Large_Healing_N",
+    "uniqueSaveId": 0,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_MedKit_Large_Natural",
+    "name": "天然医疗包",
+    "token": "Craftplan_MedKit_Large_Natural_N",
+    "uniqueSaveId": 1,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_AxeBig_Viking",
+    "name": "诸神黄昏",
+    "token": "Craftplan_Melee_AxeBig_Viking_N",
+    "uniqueSaveId": 9924,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_AxeBig_Viking_Fire",
+    "name": "诸神黄昏余烬",
+    "token": "Craftplan_Melee_AxeBig_Viking_Fire_N",
+    "uniqueSaveId": 9925,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Axe_Sky_Piercer_SHU",
+    "name": "龙戟",
+    "token": "Craftplan_Melee_Axe_Sky_Piercer_SHU_N",
+    "uniqueSaveId": 9621,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_BigHammer_Savvy",
+    "name": "次代大锤",
+    "token": "Craftplan_Melee_BigHammer_Savvy_N",
+    "uniqueSaveId": 4002,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_BigHammer_Tactical",
+    "name": "HTU“激烈争论”大锤",
+    "token": "Craftplan_Melee_BigHammer_Tactical_N",
+    "uniqueSaveId": 9933,
+    "source": "collectables_dlc59.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Cane_SpecialAgent",
+    "name": "以礼服人",
+    "token": "Craftplan_Melee_Cane_SpecialAgent_N",
+    "uniqueSaveId": 9921,
+    "source": "collectables_dlc57.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Crowbar_CandyCane",
+    "name": "拐杖糖",
+    "token": "Craftplan_Melee_Crowbar_CandyCane_N",
+    "uniqueSaveId": 9562,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Hammer_AddOn_Brilliant",
+    "name": "天才大锤",
+    "token": "Craftplan_Melee_Hammer_AddOn_Brilliant_N",
+    "uniqueSaveId": 9574,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_KnifeBGodFather",
+    "name": "沉默是金",
+    "token": "Craftplan_Melee_KnifeBGodFather_N",
+    "uniqueSaveId": 9538,
+    "source": "collectables_dlc43.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_LongSword_ZweihanderCHV",
+    "name": "双手剑",
+    "token": "Craftplan_Melee_LongSword_ZweihanderCHV_N",
+    "uniqueSaveId": 9602,
+    "source": "collectables_dlc46.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Mace_AddOn_Bolted",
+    "name": "螺栓棒",
+    "token": "Craftplan_Melee_Mace_AddOn_Bolted_N",
+    "uniqueSaveId": 9573,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_MacheteARaisElite",
+    "name": "狼爪",
+    "token": "Craftplan_Melee_MacheteARaisElite_N",
+    "uniqueSaveId": 9543,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_MacheteARaisElite_DLC",
+    "name": "莱斯精英砍刀（DLC）〔暂无官方简中映射〕",
+    "token": "Craftplan_Melee_MacheteARaisElite_DLC_N",
+    "uniqueSaveId": 9545,
+    "source": "collectables_dlc42.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Machete_AddOn_PostApo",
+    "name": "末日主题砍刀〔暂无官方简中映射〕",
+    "token": "Craftplan_Melee_Machete_AddOn_PostApo_N",
+    "uniqueSaveId": 3095,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Machete_AddOn_Swrench",
+    "name": "待修砍刀",
+    "token": "Craftplan_Melee_Machete_AddOn_Swrench_N",
+    "uniqueSaveId": 9575,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Machete_Anniversary10",
+    "name": "黄金偶像",
+    "token": "Craftplan_Melee_Machete_Anniversary10_N",
+    "uniqueSaveId": 100020,
+    "source": "collectables_dlc67.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Machete_Astronaut",
+    "name": "V-27 变速者",
+    "token": "Craftplan_Melee_Machete_Astronaut_N",
+    "uniqueSaveId": 10002,
+    "source": "collectables_dlc62.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Machete_Retro",
+    "name": "Blademaxx",
+    "token": "Craftplan_Melee_Machete_Retro_N",
+    "uniqueSaveId": 9610,
+    "source": "collectables_dlc47.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Polearm_TSreward",
+    "name": "偃月",
+    "token": "Craftplan_Melee_Polearm_TSreward_N",
+    "uniqueSaveId": 9802,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Saw_Blade",
+    "name": "血肉撕裂者",
+    "token": "Craftplan_Melee_Saw_Blade_N",
+    "uniqueSaveId": 100015,
+    "source": "collectables_dlc66.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortAxe_AddOn_LastHope",
+    "name": "最后的希望",
+    "token": "Craftplan_Melee_ShortAxe_AddOn_LastHope_N",
+    "uniqueSaveId": 9536,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortAxe_AddOn_RodAxe",
+    "name": "黄蜂",
+    "token": "Craftplan_Melee_ShortAxe_AddOn_RodAxe_N",
+    "uniqueSaveId": 9568,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortAxe_Savvy",
+    "name": "RGB板斧",
+    "token": "Craftplan_Melee_ShortAxe_Savvy_N",
+    "uniqueSaveId": 4001,
+    "source": "collectables_dlc61.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortKnifeARaisElite",
+    "name": "天狼座",
+    "token": "Craftplan_Melee_ShortKnifeARaisElite_N",
+    "uniqueSaveId": 9541,
+    "source": "collectables_dlc42.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortSword_Dao_SHU",
+    "name": "虎跃刀",
+    "token": "Craftplan_Melee_ShortSword_Dao_SHU_N",
+    "uniqueSaveId": 9620,
+    "source": "collectables_dlc48.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortSword_Viking",
+    "name": "亚萨",
+    "token": "Craftplan_Melee_ShortSword_Viking_N",
+    "uniqueSaveId": 9926,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_ShortSword_Viking_Fire",
+    "name": "炽烈亚萨",
+    "token": "Craftplan_Melee_ShortSword_Viking_Fire_N",
+    "uniqueSaveId": 9927,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_Melee_Sword_Space_Commando",
+    "name": "Volkan 战斗剑",
+    "token": "Craftplan_Melee_Sword_Space_Commando_N",
+    "uniqueSaveId": 9691,
+    "source": "collectables_dlc53.scr"
+  },
+  {
+    "internalId": "Craftplan_Moka_Weapon",
+    "name": "莫卡的右爪",
+    "token": "Craftplan_Moka_Weapon_N",
+    "uniqueSaveId": 100018,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Molotov",
+    "name": "燃烧瓶",
+    "token": "Craftplan_Molotov_N",
+    "uniqueSaveId": 5,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_NailBomb",
+    "name": "碎片手雷",
+    "token": "Craftplan_NailBomb_N",
+    "uniqueSaveId": 8,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_NailsFireCrackers",
+    "name": "碎片陷阱炸弹",
+    "token": "Craftplan_NailsFireCrackers_N",
+    "uniqueSaveId": 58,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_NightClub",
+    "name": "夜店",
+    "token": "Craftplan_NightClub_N",
+    "uniqueSaveId": 3002,
+    "source": "collectables_dlc5.scr"
+  },
+  {
+    "internalId": "Craftplan_Pipe_Anniversary5",
+    "name": "第一把武器",
+    "token": "Craftplan_Pipe_Anniversary5_N",
+    "uniqueSaveId": 9591,
+    "source": "collectables_dlc50.scr"
+  },
+  {
+    "internalId": "Craftplan_PocketLighter",
+    "name": "口袋火机",
+    "token": "Craftplan_PocketLighter_N",
+    "uniqueSaveId": 40,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonBlast",
+    "name": "毒爆",
+    "token": "Craftplan_PoisonBlast_N",
+    "uniqueSaveId": 66,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonBomb",
+    "name": "剧毒手雷",
+    "token": "Craftplan_PoisonBomb_N",
+    "uniqueSaveId": 55,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonFireCrackers",
+    "name": "剧毒陷阱炸弹",
+    "token": "Craftplan_PoisonFireCrackers_N",
+    "uniqueSaveId": 56,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonMelee",
+    "name": "多用毒刺",
+    "token": "Craftplan_PoisonMelee_N",
+    "uniqueSaveId": 12,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonPen",
+    "name": "剧毒笔",
+    "token": "Craftplan_PoisonPen_N",
+    "uniqueSaveId": 22,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PoisonStrapon",
+    "name": "漆树",
+    "token": "Craftplan_PoisonStrapon_N",
+    "uniqueSaveId": 26,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Poison_Prime",
+    "name": "逃亡者毒药",
+    "token": "Craftplan_Poison_Prime_N",
+    "uniqueSaveId": 86,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PuffPuffPass",
+    "name": "仙人跳",
+    "token": "Craftplan_PuffPuffPass_N",
+    "uniqueSaveId": 25,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PukeNNuke",
+    "name": "连吐带打",
+    "token": "Craftplan_PukeNNuke_N",
+    "uniqueSaveId": 61,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_PunkQueen",
+    "name": "朋克女王",
+    "token": "Craftplan_PunkQueen_N",
+    "uniqueSaveId": 3000,
+    "source": "collectables_dlc3.scr"
+  },
+  {
+    "internalId": "Craftplan_RifleSharpshooter",
+    "name": "精准步枪",
+    "token": "Craftplan_Firearm_RifleSharpshooter_N",
+    "uniqueSaveId": 3080,
+    "source": "collectables_dlc31.scr"
+  },
+  {
+    "internalId": "Craftplan_Rifle_Inmate",
+    "name": "哈兰囚犯步枪",
+    "token": "Craftplan_Rifle_Inmate_N",
+    "uniqueSaveId": 9558,
+    "source": "collectables_dlc45.scr"
+  },
+  {
+    "internalId": "Craftplan_Rooster",
+    "name": "战斗公鸡",
+    "token": "Craftplan_Rooster_N",
+    "uniqueSaveId": 48,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_AssaultRifle_DLC",
+    "name": "锈蚀突击步枪",
+    "token": "Craftplan_Rust_AssaultRifle_DLC_N",
+    "uniqueSaveId": 9936,
+    "source": "collectables_dlc60.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_AssaultRifle_Gold",
+    "name": "一流锈蚀突击步枪",
+    "token": "Craftplan_Rust_AssaultRifle_Gold_N",
+    "uniqueSaveId": 9939,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_SalvagedCleaver_DLC",
+    "name": "变废为宝切肉刀",
+    "token": "Craftplan_Rust_SalvagedCleaver_DLC_N",
+    "uniqueSaveId": 9937,
+    "source": "collectables_dlc60.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_SalvagedCleaver_Gold",
+    "name": "一流变废为宝切肉刀",
+    "token": "Craftplan_Rust_SalvagedCleaver_Gold_N",
+    "uniqueSaveId": 9940,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_SubmachineGun_DLC",
+    "name": "定制冲锋枪",
+    "token": "Craftplan_Rust_SubmachineGun_DLC_N",
+    "uniqueSaveId": 9935,
+    "source": "collectables_dlc60.scr"
+  },
+  {
+    "internalId": "Craftplan_Rust_SubmachineGun_Gold",
+    "name": "一流定制冲锋枪",
+    "token": "Craftplan_Rust_SubmachineGun_Gold_N",
+    "uniqueSaveId": 9938,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Shield",
+    "name": "盾牌",
+    "token": "Craftplan_Shield_N",
+    "uniqueSaveId": 94,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Shield_CHV_A",
+    "name": "阿加莎中世纪盾牌",
+    "token": "Craftplan_Shield_CHV_A_N",
+    "uniqueSaveId": 9600,
+    "source": "collectables_dlc46.scr"
+  },
+  {
+    "internalId": "Craftplan_Shield_CHV_M",
+    "name": "梅森中世纪盾牌",
+    "token": "Craftplan_Shield_CHV_M_N",
+    "uniqueSaveId": 9601,
+    "source": "collectables_dlc46.scr"
+  },
+  {
+    "internalId": "Craftplan_Shield_Pro_Viking",
+    "name": "阿斯加德的守护者",
+    "token": "Craftplan_Shield_Pro_Viking_N",
+    "uniqueSaveId": 9928,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_Shield_Pro_Viking_Fire",
+    "name": "阿斯加德的火墙",
+    "token": "Craftplan_Shield_Pro_Viking_Fire_N",
+    "uniqueSaveId": 9929,
+    "source": "collectables_dlc55.scr"
+  },
+  {
+    "internalId": "Craftplan_ShortCircuit",
+    "name": "短路",
+    "token": "Craftplan_ShortCircuit_N",
+    "uniqueSaveId": 34,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ShortKnife_Inmate",
+    "name": "囚犯小刀",
+    "token": "Craftplan_ShortKnife_Inmate_N",
+    "uniqueSaveId": 9557,
+    "source": "collectables_dlc45.scr"
+  },
+  {
+    "internalId": "Craftplan_ShortSwordCNighthunter",
+    "name": "夜魔猎手之剑",
+    "token": "Craftplan_ShortSwordCNighthunter_N",
+    "uniqueSaveId": 3074,
+    "source": "collectables_dlc32.scr"
+  },
+  {
+    "internalId": "Craftplan_Shotgun_Anniversary5",
+    "name": "地狱兽",
+    "token": "Craftplan_Shotgun_Anniversary5_N",
+    "uniqueSaveId": 9592,
+    "source": "collectables_dlc50.scr"
+  },
+  {
+    "internalId": "Craftplan_Shuriken",
+    "name": "流星镖",
+    "token": "Craftplan_Shuriken_N",
+    "uniqueSaveId": 4,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_SiCKbomb",
+    "name": "病态炸弹",
+    "token": "Craftplan_SiCKbomb_N",
+    "uniqueSaveId": -1,
+    "source": "inventory_special.scr"
+  },
+  {
+    "internalId": "Craftplan_Slot_Machine",
+    "name": "7号口袋",
+    "token": "Craftplan_Slot_Machine_N",
+    "uniqueSaveId": 100019,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Spanner_Gaas",
+    "name": "老朋友",
+    "token": "Craftplan_Spanner_Gaas_N",
+    "uniqueSaveId": 3082,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_Spike_Weapon_StageII",
+    "name": "火花塞",
+    "token": "Craftplan_Spike_Weapon_StageII_N",
+    "uniqueSaveId": 10014,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Spike_Weapon_StageIII",
+    "name": "交流发电机",
+    "token": "Craftplan_Spike_Weapon_StageIII_N",
+    "uniqueSaveId": 10015,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_SpikedCollar",
+    "name": "尖刺项圈",
+    "token": "Craftplan_SpikedCollar_N",
+    "uniqueSaveId": 43,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_StayDown",
+    "name": "老实趴着",
+    "token": "Craftplan_StayDown_N",
+    "uniqueSaveId": 52,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_StinkyEdge",
+    "name": "腐臭之刃",
+    "token": "Craftplan_StinkyEdge_N",
+    "uniqueSaveId": 24,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_SurpriseMFs",
+    "name": "给力每一天！！！",
+    "token": "Craftplan_SurpriseMFs_N",
+    "uniqueSaveId": 78,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Sword_VanCrane",
+    "name": "暗夜之剑",
+    "token": "Craftplan_Sword_VanCrane_N",
+    "uniqueSaveId": 10005,
+    "source": "collectables_dlc64.scr"
+  },
+  {
+    "internalId": "Craftplan_TarantulaPotion",
+    "name": "体力强化剂",
+    "token": "Craftplan_TarantulaPotion_N",
+    "uniqueSaveId": 59,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Tazer",
+    "name": "230 伏",
+    "token": "Craftplan_Tazer_N",
+    "uniqueSaveId": 32,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_TheConstable",
+    "name": "治安官",
+    "token": "Craftplan_TheConstable_N",
+    "uniqueSaveId": 3005,
+    "source": "collectables_dlc7.scr"
+  },
+  {
+    "internalId": "Craftplan_ThornCrown",
+    "name": "荆棘王冠",
+    "token": "Craftplan_ThornCrown_N",
+    "uniqueSaveId": 81,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ThrowableFuel",
+    "name": "可燃液体",
+    "token": "Craftplan_ThrowableFuel_N",
+    "uniqueSaveId": 2,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ThrowableWater",
+    "name": "导电液体",
+    "token": "Craftplan_ThrowableWater_N",
+    "uniqueSaveId": 2,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_ExplosiveBomb",
+    "name": "C4炸药",
+    "token": "Craftplan_Throwable_ExplosiveBomb_N",
+    "uniqueSaveId": 9563,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_ExplosiveBomb_Bleeding",
+    "name": "破片C4炸药",
+    "token": "Craftplan_Throwable_ExplosiveBomb_Bleeding_N",
+    "uniqueSaveId": 9583,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_ExplosiveBomb_Burning",
+    "name": "易燃C4炸药",
+    "token": "Craftplan_Throwable_ExplosiveBomb_Burning_N",
+    "uniqueSaveId": 9582,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_ExplosiveBomb_Freeze",
+    "name": "冰冻C4炸药",
+    "token": "Craftplan_Throwable_ExplosiveBomb_Freeze_N",
+    "uniqueSaveId": 9580,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_ExplosiveBomb_Poison",
+    "name": "毒性C4炸药",
+    "token": "Craftplan_Throwable_ExplosiveBomb_Poison_N",
+    "uniqueSaveId": 9581,
+    "source": "collectables_event.scr"
+  },
+  {
+    "internalId": "Craftplan_Throwable_Snowball",
+    "name": "雪球",
+    "token": "Craftplan_Throwable_Snowball_N",
+    "uniqueSaveId": 9560,
+    "source": "collectables_gaas_2.scr"
+  },
+  {
+    "internalId": "Craftplan_ThrowingKnife",
+    "name": "飞刀",
+    "token": "Craftplan_ThrowingKnife_N",
+    "uniqueSaveId": 101,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ToxicReaper",
+    "name": "毒镰",
+    "token": "Craftplan_ToxicReaper_N",
+    "uniqueSaveId": 63,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_TruActionElectricBaseball",
+    "name": "实况电子棒球",
+    "token": "Craftplan_TruActionElectricBaseball_N",
+    "uniqueSaveId": 33,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Unturned_HockeyStick",
+    "name": "未转变者曲棍球棒",
+    "token": "Craftplan_Unturned_HockeyStick_N",
+    "uniqueSaveId": 9710,
+    "source": "collectables_dlc51.scr"
+  },
+  {
+    "internalId": "Craftplan_Unturned_Machete",
+    "name": "未转变者弯刀",
+    "token": "Craftplan_Unturned_Machete_N",
+    "uniqueSaveId": 9712,
+    "source": "collectables_dlc51.scr"
+  },
+  {
+    "internalId": "Craftplan_Unturned_Rake",
+    "name": "未转变者草耙",
+    "token": "Craftplan_Unturned_Rake_N",
+    "uniqueSaveId": 9711,
+    "source": "collectables_dlc51.scr"
+  },
+  {
+    "internalId": "Craftplan_WaterCurrent",
+    "name": "带电水流",
+    "token": "Craftplan_WaterCurrent_N",
+    "uniqueSaveId": 29,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Welder",
+    "name": "焊机",
+    "token": "Craftplan_Welder_N",
+    "uniqueSaveId": 38,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_WolfPotion",
+    "name": "抗性强化剂",
+    "token": "Craftplan_WolfPotion_N",
+    "uniqueSaveId": 19,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_WrenchKiss",
+    "name": "扳手之吻",
+    "token": "Craftplan_WrenchKiss_N",
+    "uniqueSaveId": 3005,
+    "source": "collectables_dlc8.scr"
+  },
+  {
+    "internalId": "Craftplan_Wrench_Inmate",
+    "name": "囚犯之吻",
+    "token": "Craftplan_Wrench_Inmate_N",
+    "uniqueSaveId": 9556,
+    "source": "collectables_dlc45.scr"
+  },
+  {
+    "internalId": "Craftplan_ZZZZ3_Crossbow_PostApo",
+    "name": "末日主题弩〔暂无官方简中映射〕",
+    "token": "Craftplan_ZZZZ3_Crossbow_PostApo_N",
+    "uniqueSaveId": 3096,
+    "source": "collectables_gaas.scr"
+  },
+  {
+    "internalId": "Craftplan_ZaidFlare",
+    "name": "扎伊德的照明弹",
+    "token": "Craftplan_ZaidFlare_N",
+    "uniqueSaveId": 104,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Zappo",
+    "name": "扎宝",
+    "token": "Craftplan_Zappo_N",
+    "uniqueSaveId": 76,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_Zazhigalka",
+    "name": "扎吉盖尔加",
+    "token": "Craftplan_Zazhigalka_N",
+    "uniqueSaveId": 37,
+    "source": "collectables.scr"
+  },
+  {
+    "internalId": "Craftplan_ZombieClassic",
+    "name": "丧尸经典",
+    "token": "Craftplan_ZombieClassic_N",
+    "uniqueSaveId": 35,
+    "source": "collectables.scr"
+  }
+]

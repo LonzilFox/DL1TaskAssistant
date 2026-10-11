@@ -1,0 +1,628 @@
+{
+  "version": "0.0.9",
+  "categories": {
+    "主线": [
+      {
+        "key": "Prologue",
+        "name": "Prologue",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "GoingOutside",
+        "name": "Going Outside",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Blackout",
+        "name": "Blackout",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Airdrop",
+        "name": "Airdrop",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "PactWithRais",
+        "name": "Pact With Rais",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Antennas",
+        "name": "Antennas",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Courier",
+        "name": "Courier",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Explosives",
+        "name": "Explosives",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "PrimeHunting",
+        "name": "Prime Hunting",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Demoliton",
+        "name": "Demoliton",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Intruders",
+        "name": "Intruders",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Warehouse",
+        "name": "Warehouse",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Arena",
+        "name": "Arena",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Runaway",
+        "name": "Runaway",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Saviors",
+        "name": "Saviors",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "FindTheEmbers",
+        "name": "Find The Embers",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "University",
+        "name": "University",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Randezvous",
+        "name": "Randezvous",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Provider",
+        "name": "Provider",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ProjectMayhem",
+        "name": "Project Mayhem",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "MeetingWithJade",
+        "name": "Meeting With Jade",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Museum",
+        "name": "Museum",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Contact",
+        "name": "Contact",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Clinic",
+        "name": "Clinic",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ContactGRE",
+        "name": "Contact GRE",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "OutOfTheAir",
+        "name": "Out Of The Air",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "CheckEmbers",
+        "name": "Check Embers",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Final",
+        "name": "Final",
+        "source": "quests_rewards_main.scr"
+      }
+    ],
+    "支线": [
+      {
+        "key": "BringDawud",
+        "name": "Bring Dawud",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "GoodNightBahir",
+        "name": "Good Night Bahir",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "MothersDay",
+        "name": "Mothers Day",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "VoltageEXP",
+        "name": "Voltage EXP",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "VoltageCraftplan",
+        "name": "Voltage Craftplan",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Voltage",
+        "name": "Voltage",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "LandMine",
+        "name": "Land Mine",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Antibiotics",
+        "name": "Antibiotics",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ElectricMachete",
+        "name": "Electric Machete",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "PerfectMurder",
+        "name": "Perfect Murder",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "SpareGlasses",
+        "name": "Spare Glasses",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "MedicalHerbs",
+        "name": "Medical Herbs",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Twins02",
+        "name": "Twins02",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BringGalib",
+        "name": "Bring Galib",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WheresMyMother",
+        "name": "Wheres My Mother",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "GuideToZombieland",
+        "name": "Guide To Zombieland",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BringJeff",
+        "name": "Bring Jeff",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BringMusa",
+        "name": "Bring Musa",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "PoisonousHerbs",
+        "name": "Poisonous Herbs",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Searchlights",
+        "name": "Searchlights",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Binoculars",
+        "name": "Binoculars",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "MidnightBride",
+        "name": "Midnight Bride",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Firebug",
+        "name": "Firebug",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Algae",
+        "name": "Algae",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BabyIsBorn",
+        "name": "Baby Is Born",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Dynamites",
+        "name": "Dynamites",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Twins03",
+        "name": "Twins03",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Twins04",
+        "name": "Twins04",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "TalesFromTheCrypt",
+        "name": "Tales From The Crypt",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WitchQueen",
+        "name": "Witch Queen",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WitchQueen02",
+        "name": "Witch Queen02",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WitchQueen03",
+        "name": "Witch Queen03",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WitchQueen04",
+        "name": "Witch Queen04",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "WitchQueen05",
+        "name": "Witch Queen05",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "DeathNote",
+        "name": "Death Note",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "CrayonsForTheKids",
+        "name": "Crayons For The Kids",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ElectronicParts",
+        "name": "Electronic Parts",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Cofee",
+        "name": "Cofee",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "GasLighter",
+        "name": "Gas Lighter",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BandagesAndMeds",
+        "name": "Bandages And Meds",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "EXPcalibur",
+        "name": "EXPcalibur",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "LootCave",
+        "name": "Loot Cave",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "QuasiWorld",
+        "name": "Quasi World",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Bunker",
+        "name": "Bunker",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Outposts",
+        "name": "Outposts",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Outposts_Office",
+        "name": "Outposts Office",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Outposts_Radio",
+        "name": "Outposts Radio",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "LostInSpace",
+        "name": "Lost In Space",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "TheProphecy",
+        "name": "The Prophecy",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "FanZone",
+        "name": "Fan Zone",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "TheProphet",
+        "name": "The Prophet",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "FindRupert",
+        "name": "Find Rupert",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "HealthPotion",
+        "name": "Health Potion",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BricksForTheBoy01",
+        "name": "Bricks For The Boy01",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "BricksForTheBoy02",
+        "name": "Bricks For The Boy02",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Twins05",
+        "name": "Twins05",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Dungeons",
+        "name": "Dungeons",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "UglyMonster",
+        "name": "Ugly Monster",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "FoodCourier",
+        "name": "Food Courier",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ChildrenOfMatrix",
+        "name": "Children Of Matrix",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Ghost",
+        "name": "Ghost",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ULTRA_ENEMY_TOAD",
+        "name": "ULTRA ENEMY TOAD",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ULTRA_ENEMY_ARMORED_B",
+        "name": "ULTRA ENEMY ARMORED B",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ULTRA_ENEMY_ARMORED_H",
+        "name": "ULTRA ENEMY ARMORED H",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ULTRA_ENEMY_THUG",
+        "name": "ULTRA ENEMY THUG",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "ULTRA_ENEMY_GOON",
+        "name": "ULTRA ENEMY GOON",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "tableCleansing2",
+        "name": "table Cleansing2",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Fountain",
+        "name": "Fountain",
+        "source": "quests_rewards_main.scr"
+      }
+    ],
+    "可重复任务": [
+      {
+        "key": "Slums_Cleansing_Tunnel_Start",
+        "name": "Slums Cleansing Tunnel Start",
+        "source": "data/quests/slums_cl_tunnel/slums_cleansing_tunnel02_quest.xml"
+      },
+      {
+        "key": "Slums_Cleansing_Sidetrack_Start",
+        "name": "Slums Cleansing Sidetrack Start",
+        "source": "data/quests/slums_cl_sidetrack/slums_cleansing_tunnel01_quest.xml"
+      },
+      {
+        "key": "Slums_Cleansing_parking_Start",
+        "name": "Slums Cleansing parking Start",
+        "source": "data/quests/slums_cl_parking/slums_cleansing_parking01_quest.xml"
+      },
+      {
+        "key": "Slums_Cleansing_Market_Start",
+        "name": "Slums Cleansing Market Start",
+        "source": "data/quests/slums_cl_market/slums_cleansing_market01_quest.xml"
+      },
+      {
+        "key": "Slums_Cleansing_hangar_Start",
+        "name": "Slums Cleansing hangar Start",
+        "source": "data/quests/slums_cl_hangar/slums_cleansing_hangar01_quest.xml"
+      },
+      {
+        "key": "Slums_Cleansing_Flat_Start",
+        "name": "Slums Cleansing Flat Start",
+        "source": "data/quests/slums_cl_flats/slums_cleansing_interior_01_quest.xml"
+      },
+      {
+        "key": "OT_Cleansing_Restaurant_Start",
+        "name": "OT Cleansing Restaurant Start",
+        "source": "data/quests/ot_cl_restaurant/old_town_cleansing_restaurant_quest.xml"
+      },
+      {
+        "key": "OT_Cleansing_Parking_Start",
+        "name": "OT Cleansing Parking Start",
+        "source": "data/quests/ot_cl_parking/old_town_cleansing_side_quest.xml"
+      },
+      {
+        "key": "OT_Cleansing_Hotel_Start",
+        "name": "OT Cleansing Hotel Start",
+        "source": "data/quests/ot_cl_hotel/old_town_cleansing_hotel_01_quest.xml"
+      },
+      {
+        "key": "OT_Cleansing_Apartment_Start",
+        "name": "OT Cleansing Apartment Start",
+        "source": "data/quests/ot_cl_apartments/old_town_cleansing_interior_01_quest.xml"
+      }
+    ],
+    "挑战": [
+      {
+        "key": "Challenge_JelaousRunner",
+        "name": "Jelaous Runner",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_FamilyDoctor",
+        "name": "Family Doctor",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_UltimateWeapon",
+        "name": "Ultimate Weapon",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_KillingGuide",
+        "name": "Killing Guide",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_BestRunner",
+        "name": "Best Runner",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_Psycho",
+        "name": "Psycho",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_DyingLunch",
+        "name": "Dying Lunch",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_BeingAHero",
+        "name": "Being AHero",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_RunForYourLife",
+        "name": "Run For Your Life",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_Posters",
+        "name": "Posters",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_climb",
+        "name": "climb",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "Challenge_run_reach_x_checkpoints",
+        "name": "run reach x checkpoints",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "slums_18_challenge",
+        "name": "slums 18 challenge",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "slums_21_challenge_01_reward",
+        "name": "slums 21 challenge 01 reward",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "oldtown_07_challenge_01_reward",
+        "name": "oldtown 07 challenge 01 reward",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "oldtown_08_challenge_01_reward",
+        "name": "oldtown 08 challenge 01 reward",
+        "source": "quests_rewards_main.scr"
+      },
+      {
+        "key": "oldtown_09_challenge_01_reward",
+        "name": "oldtown 09 challenge 01 reward",
+        "source": "quests_rewards_main.scr"
+      }
+    ]
+  }
+}

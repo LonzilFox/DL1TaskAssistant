@@ -1,0 +1,461 @@
+[
+  {
+    "id": 14001,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Worthy of Surtr",
+    "poolReward": "Loot_Melee_HRBigAxe_R10",
+    "rewardsDescription": "&SSA_14001_Reward_Hellraid&",
+    "rewardsIcon": "weapon_hellraid_axe_u_big",
+    "nameToken": "&SSA_14001_Hellraid_Obj1_WorthyOfSurtr&",
+    "rewardDisplay": "Hellraid XP 1000 · 14001 · Loot Melee HRBig Axe R10",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14001_Hellraid_Obj1_WorthyOfSurtr&",
+        "display": "14001 WorthyOfSurtr",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_14001_Hellraid_Obj2_WorthyOfSurtr&",
+        "display": "14001 WorthyOfSurtr",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14002,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Swordsmanship Trial",
+    "poolReward": "Loot_Craftplan_HRSword_R11_SHOP",
+    "rewardsDescription": "&SSA_14002_Reward_Hellraid&",
+    "rewardsIcon": "weapon_hellraid_short_sword_knight_big",
+    "nameToken": "&SSA_14002_Hellraid_Obj1_Swordsmanship&",
+    "rewardDisplay": "Hellraid XP 200 · 14002 · Loot Craftplan HRSword R11 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14002_Hellraid_Obj1_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14002_Hellraid_Obj2_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 8,
+        "nameToken": "&SSA_14002_Hellraid_Obj3_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "Mage",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 4,
+        "nameToken": "&SSA_14002_Hellraid_Obj4_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "Torturer",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14003,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Anarchist Challenge",
+    "poolReward": "Loot_Bundle_ThrowingItems",
+    "rewardsDescription": "&SSA_14003_Reward_Hellraid&",
+    "rewardsIcon": "component_misc_big",
+    "nameToken": "&SSA_14003_Hellraid_MainObj_Anarchist&",
+    "rewardDisplay": "Hellraid XP 500 · 14003 · Loot Bundle Throwing Items",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&SSA_14003_Hellraid_MainObj_Anarchist&",
+        "display": "14003 Anarchist",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14004,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Kicking asses",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&SSA_14004_Hellraid_MainObj_Ledges&",
+    "rewardDisplay": "Hellraid XP 2000",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14004_Hellraid_MainObj_Ledges&",
+        "display": "14004 Ledges",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14005,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14005 Secret",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&SSA_14005_Hellraid_MainObj_Secret&",
+    "rewardDisplay": "Hellraid XP 2000",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&SSA_14005_Hellraid_MainObj_Secret&",
+        "display": "14005 Secret",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14006,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14006",
+    "poolReward": "Loot_Craftplan_HRSword_R1_SHOP",
+    "rewardsDescription": "&Craftplan_HRSword_R1_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_h_big",
+    "nameToken": "&SSA_14006_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRSword R1 · Loot Craftplan HRSword R1 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14006_Hellraid_Obj&",
+        "display": "14006",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14007,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14007",
+    "poolReward": "Loot_Craftplan_HRKhopesh_R2_SHOP",
+    "rewardsDescription": "&Craftplan_HRKhopesh_R2_reward_N&",
+    "rewardsIcon": "weapon_hellraid_khopesh_big",
+    "nameToken": "&SSA_14007_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRKhopesh R2 · Loot Craftplan HRKhopesh R2 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14007_Hellraid_Obj&",
+        "display": "14007",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14008,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14008",
+    "poolReward": "Loot_Craftplan_HRScepter_R3_SHOP",
+    "rewardsDescription": "&Craftplan_HRScepter_R3_reward_N&",
+    "rewardsIcon": "weapon_hellraid_mace_scepter_big",
+    "nameToken": "&SSA_14008_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRScepter R3 · Loot Craftplan HRScepter R3 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14008_Hellraid_Obj&",
+        "display": "14008",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14009,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Cutting [50] Limbs of enemy, cutting [10] enemy heads",
+    "poolReward": "Loot_Craftplan_HRShortAxe_R4_SHOP",
+    "rewardsDescription": "&Craftplan_HRShortAxe_R4_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_h_big",
+    "nameToken": "&SSA_14009_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRShort Axe R4 · Loot Craftplan HRShort Axe R4 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&SSA_14009_Hellraid_Obj_1&",
+        "display": "14009 1",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_14009_Hellraid_Obj_2&",
+        "display": "14009 2",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140010,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Smashing [30] heads [known exploit: BodyPartDestroyed() doesn't work for HR_Zombie, so we removed this]",
+    "poolReward": "Loot_Craftplan_HRMace_R5_SHOP",
+    "rewardsDescription": "&Craftplan_HRMace_R5_reward_N&",
+    "rewardsIcon": "weapon_hellraid_mace_a_big",
+    "nameToken": "&SSA_140010_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRMace R5 · Loot Craftplan HRMace R5 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&SSA_140010_Hellraid_Obj&",
+        "display": "140010",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140011,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Cutting [3] heads with one swing [5] times",
+    "poolReward": "Loot_Craftplan_HRSword_R6_SHOP",
+    "rewardsDescription": "&Craftplan_HRSword_R6_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_m_big",
+    "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+    "rewardDisplay": "Hellraid XP 200 · HRSword R6 · Loot Craftplan HRSword R6 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+        "display": "Gaas Bounty Multi Behead",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140012,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Kill enemies in Church area",
+    "poolReward": "Loot_Craftplan_HRLongSword_R7_SHOP",
+    "rewardsDescription": "&Craftplan_HRLongSword_R7_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_a_big",
+    "nameToken": "&SSA_140012_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRLong Sword R7 · Loot Craftplan HRLong Sword R7 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&SSA_140012_Hellraid_Obj_1&",
+        "display": "140012 1",
+        "refName": "GOTOOP",
+        "prerequisite": "GOTOSL",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140012_Hellraid_Obj_2&",
+        "display": "140012 2",
+        "refName": "",
+        "prerequisite": "GOTOOP",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140013,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140013",
+    "poolReward": "Loot_Craftplan_HRBigAxe_R8_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigAxe_R8_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_b_big",
+    "nameToken": "&SSA_140013_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Axe R8 · Loot Craftplan HRBig Axe R8 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140013_Hellraid_Obj&",
+        "display": "140013",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140014,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140014",
+    "poolReward": "Loot_Craftplan_HRHammer_R9_SHOP",
+    "rewardsDescription": "&Craftplan_HRHammer_R9_reward_N&",
+    "rewardsIcon": "weapon_hellraid_hammer_b_big",
+    "nameToken": "&SSA_140014_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRHammer R9 · Loot Craftplan HRHammer R9 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 4,
+        "nameToken": "&SSA_140014_Hellraid_Obj&",
+        "display": "140014",
+        "refName": "Torturer",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140015,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140015 1",
+    "poolReward": "Loot_Craftplan_HRBigAxe_R10_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigAxe_R10_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_u_big",
+    "nameToken": "&SSA_140015_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Axe R10 · Loot Craftplan HRBig Axe R10 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&SSA_140015_Hellraid_Obj_1&",
+        "display": "140015 1",
+        "refName": "GOTOOP",
+        "prerequisite": "GOTOSL",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140015_Hellraid_Obj_2&",
+        "display": "140015 2",
+        "refName": "",
+        "prerequisite": "GOTOOP",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140016,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140016",
+    "poolReward": "Loot_Craftplan_HRMace_R12_SHOP",
+    "rewardsDescription": "&Craftplan_HRMace_R12_reward_N&",
+    "rewardsIcon": "weapon_mace_hellraid_big",
+    "nameToken": "&SSA_140016_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRMace R12 · Loot Craftplan HRMace R12 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140016_Hellraid_Obj&",
+        "display": "140016",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140017,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140017",
+    "poolReward": "Loot_Craftplan_HRBigHammer_R13_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigHammer_R13_reward_N&",
+    "rewardsIcon": "weapon_hammer_big_hellraid_a_big",
+    "nameToken": "&SSA_140017_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Hammer R13 · Loot Craftplan HRBig Hammer R13 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140017_Hellraid_Obj&",
+        "display": "140017",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140018,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Shotgun Bounty",
+    "poolReward": "Loot_Collectable_Shotgun_Unlocker",
+    "rewardsDescription": "&Firearm_ShotgunHellraid_N&",
+    "rewardsIcon": "weapon_shotgun_g_big",
+    "nameToken": "&SSA_140018_Hellraid_Obj&",
+    "rewardDisplay": "Shotgun Hellraid · Loot Collectable Shotgun Unlocker",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 666,
+        "nameToken": "&SSA_140018_Hellraid_Obj&",
+        "display": "140018",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  }
+]

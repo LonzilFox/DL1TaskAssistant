@@ -1,0 +1,4038 @@
+[
+  {
+    "id": 10021,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Survive Pursuit",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Survive_Pursuit&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 2400,
+        "nameToken": "&Bounty_Obj_Survive_Pursuit&",
+        "display": "Survive Pursuit",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10024,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "BTZ Tackle Evade",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Tackle_Evade&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_Obj_BTZ_Tackle_Evade&",
+        "display": "BTZ Tackle Evade",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10025,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "BTZ Win",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Win&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_BTZ_Win&",
+        "display": "BTZ Win",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "BtzStart",
+        "refName": "BtzStart",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_BTZ_Hunter_Alive&",
+        "display": "BTZ Hunter Alive",
+        "refName": "",
+        "prerequisite": "BtzStart",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10026,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Bolter DNA",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Bolter_DNA&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Kill_Bolter_DNA&",
+        "display": "Kill Bolter DNA",
+        "refName": "Success",
+        "prerequisite": "Success",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Success",
+        "refName": "Success",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10027,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Thug",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Thug&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 2,
+        "nameToken": "&Bounty_Obj_Kill_Thug&",
+        "display": "Kill Thug",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10028,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Zombies",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Zombies&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&Bounty_Obj_Kill_Zombies&",
+        "display": "Kill Zombies",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10029,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Collect Money",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Collect_Money&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1000,
+        "nameToken": "&Bounty_Obj_Collect_Money&",
+        "display": "Collect Money",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10030,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "NagaWaza",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_NagaWaza&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_NagaWaza&",
+        "display": "NagaWaza",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10031,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Stomp",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Stomp&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_Stomp&",
+        "display": "Stomp",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10032,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Collect Algae",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Collect_Algae&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&Bounty_Obj_Collect_Algae&",
+        "display": "Collect Algae",
+        "refName": "Success",
+        "prerequisite": "Success",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Success",
+        "refName": "Success",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10033,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Consecutive Head Shots",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Consecutive_Head_Shots&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_Consecutive_Head_Shots&",
+        "display": "Consecutive Head Shots",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10034,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "JumpAttack Kills",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_JumpAttack_Kills&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_JumpAttack_Kills&",
+        "display": "JumpAttack Kills",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10035,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "EnvironmentalKill",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_EnvironmentalKill&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_EnvironmentalKill&",
+        "display": "EnvironmentalKill",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10036,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Night",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Night&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Kill_Night&",
+        "display": "Kill Night",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Pursuit&",
+        "display": "No Pursuit",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Damage&",
+        "display": "No Damage",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Camo&",
+        "display": "No Camo",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10037,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Burning",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Burning&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Kill_Burning&",
+        "display": "Kill Burning",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10038,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Thrown Weapons",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Thrown_Weapons&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_Kill_Thrown_Weapons&",
+        "display": "Kill Thrown Weapons",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10039,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Thrown Melee",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Thrown_Melee&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 35,
+        "nameToken": "&Bounty_Obj_Kill_Thrown_Melee&",
+        "display": "Kill Thrown Melee",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10040,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Night Silent Takedowns",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Night_Silent_Takedowns&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_Obj_Kill_Night_Silent_Takedowns&",
+        "display": "Kill Night Silent Takedowns",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Be_Silent&",
+        "display": "Be Silent",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Camo&",
+        "display": "No Camo",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10041,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Infected Dropkick",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Infected_Dropkick&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Kill_Infected_Dropkick&",
+        "display": "Kill Infected Dropkick",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10042,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Vault",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Vault",
+        "refName": "Vault",
+        "prerequisite": "Vault",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Vault_Spitter&",
+        "display": "Vault Spitter",
+        "refName": "",
+        "prerequisite": "Vault",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10043,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Money At Night",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Money_At_Night&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 500,
+        "nameToken": "&Bounty_Obj_Money_At_Night&",
+        "display": "Money At Night",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10050,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Expl Night",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Expl_Night&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Kill_Expl_Night&",
+        "display": "Kill Expl Night",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10051,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Visit Lookout",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Visit_Lookout&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Visit_Lookout&",
+        "display": "Visit Lookout",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Visit_Sword&",
+        "display": "Visit Sword",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Visit_Cave&",
+        "display": "Visit Cave",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10052,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Pick Hard Locks",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Pick_Hard_Locks&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Pick_Hard_Locks&",
+        "display": "Pick Hard Locks",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Lockpick_Break&",
+        "display": "No Lockpick Break",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10053,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Drive Scarecrows",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Drive_Scarecrows&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_Drive_Scarecrows&",
+        "display": "Drive Scarecrows",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10054,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Buggy Large Jumps",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Buggy_Large_Jumps&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&Bounty_Obj_Buggy_Large_Jumps&",
+        "display": "Buggy Large Jumps",
+        "refName": "InAir",
+        "prerequisite": "JumpTime; JumpTime",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 9,
+        "nameToken": "",
+        "display": "JumpTime",
+        "refName": "JumpTime",
+        "prerequisite": "JumpTime",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10055,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Cut Legs",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Cut_Legs&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Cut_Legs&",
+        "display": "Cut Legs",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Cut_Arms&",
+        "display": "Cut Arms",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10056,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Drown Volatile",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Drown_Volatile&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Drown_Volatile&",
+        "display": "Drown Volatile",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10057,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Takedowns",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Takedowns&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&Bounty_Obj_Kill_Takedowns&",
+        "display": "Kill Takedowns",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10058,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Fire",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Fire&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_Kill_Fire&",
+        "display": "Kill Fire",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10059,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Kill Fall",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Fall&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_Kill_Fall&",
+        "display": "Kill Fall",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10060,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "BTZ Kill Brood",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Kill_Brood&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_BTZ_Kill_Brood&",
+        "display": "BTZ Kill Brood",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10061,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Hit Airborne",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Hit_Airborne&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_Hit_Airborne&",
+        "display": "Hit Airborne",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10062,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Roll",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Roll&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&Bounty_Obj_Roll&",
+        "display": "Roll",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_NoFallDamage&",
+        "display": "NoFallDamage",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10063,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Hook",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Hook&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 400,
+        "nameToken": "&Bounty_Obj_Hook&",
+        "display": "Hook",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_Hook_Times&",
+        "display": "Hook Times",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10064,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Run",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Run&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1000,
+        "nameToken": "&Bounty_Obj_Run&",
+        "display": "Run",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 40,
+        "nameToken": "&Bounty_Obj_Kill&",
+        "display": "Kill",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10065,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Fall",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Fall&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 200,
+        "nameToken": "&Bounty_Obj_Fall&",
+        "display": "Fall",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_BigFall&",
+        "display": "BigFall",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&Bounty_Obj_BigFall&",
+        "display": "BigFall",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10066,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Climb",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Climb&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 150,
+        "nameToken": "&Bounty_Obj_Climb&",
+        "display": "Climb",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 75,
+        "nameToken": "&Bounty_Obj_DoNotFall&",
+        "display": "DoNotFall",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10067,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "SlideKick",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_SlideKick&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&Bounty_Obj_SlideKick&",
+        "display": "SlideKick",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 110,
+        "nameToken": "&Bounty_Obj_LimitedSlideDistance&",
+        "display": "LimitedSlideDistance",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 10068,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Vault",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Vault&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 40,
+        "nameToken": "&Bounty_Obj_Vault&",
+        "display": "Vault",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_StayInAirVault&",
+        "display": "StayInAirVault",
+        "refName": "Vault",
+        "prerequisite": "Vault",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Vault",
+        "refName": "Vault",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 12,
+        "nameToken": "&Bounty_Obj_StayInAirVault&",
+        "display": "StayInAirVault",
+        "refName": "",
+        "prerequisite": "Vault",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11016,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Hay Windmill",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Hay_Windmill&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Hay_Windmill&",
+        "display": "Hay Windmill",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11045,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Arrow Leg",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Arrow_Leg&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&Bounty_Obj_Arrow_Leg&",
+        "display": "Arrow Leg",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11062,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Shield Bash",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Shield_Bash&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_Obj_Shield_Bash&",
+        "display": "Shield Bash",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11063,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Instant Grab Breaks",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Instant_Grab_Breaks&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_Instant_Grab_Breaks&",
+        "display": "Instant Grab Breaks",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11077,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Drive With Volatile",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Drive_With_Volatile&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 100,
+        "nameToken": "&Bounty_Obj_Drive_With_Volatile&",
+        "display": "Drive With Volatile",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11078,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 3",
+        "prerequisite": "Goto 3",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 4",
+        "prerequisite": "Goto 3",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 5",
+        "prerequisite": "Goto 4",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 6",
+        "prerequisite": "Goto 5",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 7",
+        "prerequisite": "Goto 6",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 8",
+        "prerequisite": "Goto 7",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 9",
+        "prerequisite": "Goto 8",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 10",
+        "prerequisite": "Goto 9",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Dont_Hit_Zombies&",
+        "display": "Dont Hit Zombies",
+        "refName": "Hit",
+        "prerequisite": "Goto 3",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Hit",
+        "refName": "Hit",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11103,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Rise of the Phoenix",
+    "poolReward": "GaaS_Drop1_Knife",
+    "rewardsDescription": "&Gaas_ShortKnife_N&",
+    "rewardsIcon": "weapon_knife_big",
+    "nameToken": "&Bounty_LiveOps_StartTrial&",
+    "rewardDisplay": "Short Knife · Gaa S Drop1 Knife",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_StartTrial&",
+        "display": "StartTrial",
+        "refName": "Goto 3",
+        "prerequisite": "Goto 3",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1700,
+        "nameToken": "&Bounty_Obj_Timer&",
+        "display": "Timer",
+        "refName": "",
+        "prerequisite": "Goto 3",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Goto 3",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Potions&",
+        "display": "No Potions",
+        "refName": "",
+        "prerequisite": "Goto 3",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 4",
+        "prerequisite": "Goto 3",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 5",
+        "prerequisite": "Goto 4",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 6",
+        "prerequisite": "Goto 5",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 7",
+        "prerequisite": "Goto 6",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 8",
+        "prerequisite": "Goto 7",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 9",
+        "prerequisite": "Goto 8",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 10",
+        "prerequisite": "Goto 9",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 11",
+        "prerequisite": "Goto 10",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 12",
+        "prerequisite": "Goto 11",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 13",
+        "prerequisite": "Goto 12",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto 14",
+        "prerequisite": "Goto 13",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 33001,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Ace in the Hole",
+    "poolReward": "GaaS_Drop1_Revolver",
+    "rewardsDescription": "&Firearm_Gaas_Revolver_N&",
+    "rewardsIcon": "weapon_revolver_c_big",
+    "nameToken": "&Bounty_Obj_Double_Headshot&",
+    "rewardDisplay": "Revolver · Gaa S Drop1 Revolver",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&Bounty_Obj_Double_Headshot&",
+        "display": "Double Headshot",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 50399,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "Bloodlust",
+    "poolReward": "GaaS_Drop1_Axe",
+    "rewardsDescription": "&Gaas_Axe_N&",
+    "rewardsIcon": "hellaxe_big",
+    "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+    "rewardDisplay": "Axe · Gaa S Drop1 Axe",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+        "display": "Gaas Bounty Multi Behead",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 331111,
+    "source": "data/scripts/bounties/bountiesbasic.scr",
+    "type": "Basic",
+    "displayName": "GotoPrison",
+    "poolReward": "LiveOps_TrickPick",
+    "rewardsDescription": "&LiveOps_Trick_Pick_N&",
+    "rewardsIcon": "weapon_pick_big",
+    "nameToken": "&Bounty_LiveOps_Obj_GotoPrison&",
+    "rewardDisplay": "Live Ops Trick Pick",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_Obj_GotoPrison&",
+        "display": "GotoPrison",
+        "refName": "GOTOPRISON",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_Obj_CompletePrison&",
+        "display": "CompletePrison",
+        "refName": "",
+        "prerequisite": "GOTOPRISON",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_Obj_NoShooting&",
+        "display": "NoShooting",
+        "refName": "",
+        "prerequisite": "GOTOPRISON",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&No_Coop&",
+        "display": "No Coop",
+        "refName": "",
+        "prerequisite": "GOTOPRISON",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11017,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Win Competitions",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Win_Competitions&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Win_Competitions&",
+        "display": "Win Competitions",
+        "refName": "CompetitionComplete",
+        "prerequisite": "CompetitionComplete",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "CompetitionComplete",
+        "refName": "CompetitionComplete",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11018,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Zipline DropAttack",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Zipline_DropAttack&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Zipline_DropAttack&",
+        "display": "Zipline DropAttack",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11019,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Multi Behead",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Multi_Behead&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Multi_Behead&",
+        "display": "Multi Behead",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11020,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Multi Explosions",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Multi_Explosions&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_Obj_Multi_Explosions&",
+        "display": "Multi Explosions",
+        "refName": "ExplosionStart",
+        "prerequisite": "ExplosionStart",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11021,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Fall Zipline",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Fall_Zipline&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 25,
+        "nameToken": "&Bounty_Obj_Fall_Zipline&",
+        "display": "Fall Zipline",
+        "refName": "Fall",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Grab_Zipline&",
+        "display": "Grab Zipline",
+        "refName": "",
+        "prerequisite": "Fall",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11022,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "BTZ 1 Life",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_1_Life&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_BTZ_1_Life&",
+        "display": "BTZ 1 Life",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11023,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "BTZ Revive",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Revive&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_BTZ_Revive&",
+        "display": "BTZ Revive",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Dont_Die&",
+        "display": "Dont Die",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Destroy_Nests&",
+        "display": "Destroy Nests",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11025,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "BTZ Spike Kill",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Spike_Kill&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_BTZ_Spike_Kill&",
+        "display": "BTZ Spike Kill",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11029,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Reach Level 4 Pursuit",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Reach_Level_4_Pursuit&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Reach_Level_4_Pursuit&",
+        "display": "Reach Level 4 Pursuit",
+        "refName": "MaxPursuit",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Lose_Pursuit&",
+        "display": "Lose Pursuit",
+        "refName": "",
+        "prerequisite": "MaxPursuit",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Kill_Enemies_During_Pursuit&",
+        "display": "Kill Enemies During Pursuit",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11044,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Volatile HeadShot",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Volatile_HeadShot&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Volatile_HeadShot&",
+        "display": "Volatile HeadShot",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Camo&",
+        "display": "No Camo",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11053,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Head Stomp",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_HeadStomp&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&Bounty_Obj_HeadStomp&",
+        "display": "HeadStomp",
+        "refName": "Head stomp",
+        "prerequisite": "Head stomp",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1500,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Head stomp",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11054,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Fall Zipline Distance",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Fall_Zipline_Distance&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 150,
+        "nameToken": "&Bounty_Obj_Fall_Zipline_Distance&",
+        "display": "Fall Zipline Distance",
+        "refName": "Zipline",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 450,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Zipline",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Zipline",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11056,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Fall Ground Live",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Fall_Ground_Live&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Fall_Ground_Live&",
+        "display": "Fall Ground Live",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 100,
+        "nameToken": "&Bounty_Obj_Fall_Ground_Live&",
+        "display": "Fall Ground Live",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11060,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Long Pyza Glide",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Long_Pyza_Glide&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 40,
+        "nameToken": "&Bounty_Obj_Long_Pyza_Glide&",
+        "display": "Long Pyza Glide",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11061,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Air Kill",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Air_Kill&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 2,
+        "nameToken": "&Bounty_Obj_Air_Kill&",
+        "display": "Air Kill",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11066,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Land on Zombies",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Land_on_Zombies&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&Bounty_Obj_Land_on_Zombies&",
+        "display": "Land on Zombies",
+        "refName": "Success",
+        "prerequisite": "Success",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Success",
+        "refName": "Success",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11067,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto NoStopping",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto_NoStopping&",
+        "display": "Goto NoStopping",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "",
+        "display": "Grace Time",
+        "refName": "Grace Time",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11068,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 200,
+        "nameToken": "&Bounty_Obj_Kill_Traveling&",
+        "display": "Kill Traveling",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11069,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto With Hook",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto_With_Hook&",
+        "display": "Goto With Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 10,
+        "nameToken": "&Bounty_Obj_Hook_Times&",
+        "display": "Hook Times",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11070,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 4,
+        "nameToken": "&Bounty_Obj_Goto_No_Fall&",
+        "display": "Goto No Fall",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto_No_ZiplineHook&",
+        "display": "Goto No ZiplineHook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11071,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Consecutive Rolls",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Consecutive_Rolls&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_Obj_Consecutive_Rolls&",
+        "display": "Consecutive Rolls",
+        "refName": "Rolling",
+        "prerequisite": "Rolling",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 150,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Rolling",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11072,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Up_No_Climb&",
+        "display": "Up No Climb",
+        "refName": "Goto1",
+        "prerequisite": "Start",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Up_No_Climb&",
+        "display": "Up No Climb",
+        "refName": "",
+        "prerequisite": "Goto1",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Above_Ground&",
+        "display": "Above Ground",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11073,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Up No Climb",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Up_No_Climb&",
+        "display": "Up No Climb",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11074,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Carry Propane Tank",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Go to",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Pickup_Propane&",
+        "display": "Pickup Propane",
+        "refName": "Carrying",
+        "prerequisite": "",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Carry_Propane_Tank&",
+        "display": "Carry Propane Tank",
+        "refName": "",
+        "prerequisite": "Carrying; Go to",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11075,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Dumpster Carry",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Dumpster_Carry&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Dumpster_Carry&",
+        "display": "Dumpster Carry",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11076,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Kill Volatile Spikes",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Kill_Volatile_Spikes&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Kill_Volatile_Spikes&",
+        "display": "Kill Volatile Spikes",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11079,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Goto",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Arrow_Traffic_Light&",
+        "display": "Shoot Arrow Traffic Light",
+        "refName": "Arrow1",
+        "prerequisite": "Goto",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Arrow_Traffic_Light&",
+        "display": "Shoot Arrow Traffic Light",
+        "refName": "Arrow2",
+        "prerequisite": "Goto; Arrow1",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Arrow_Hanging_Lamp&",
+        "display": "Shoot Arrow Hanging Lamp",
+        "refName": "Arrow3",
+        "prerequisite": "Goto; Arrow1; Arrow2",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11080,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1650,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Potions&",
+        "display": "No Potions",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11081,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1650,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Potions&",
+        "display": "No Potions",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11082,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Consecutive Rolls",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Consecutive_Rolls&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 6,
+        "nameToken": "&Bounty_Obj_Consecutive_Rolls&",
+        "display": "Consecutive Rolls",
+        "refName": "Rolling",
+        "prerequisite": "Rolling",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 200,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Rolling",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Rolling",
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "id": 11083,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&Bounty_Obj_Jump_On_Barrels&",
+        "display": "Jump On Barrels",
+        "refName": "Jumping",
+        "prerequisite": "Start; JumpUp",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "JumpUp",
+        "refName": "JumpUp",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Swimming&",
+        "display": "No Swimming",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11084,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Throw_Flare_Hole&",
+        "display": "Throw Flare Hole",
+        "refName": "Stage1",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "StartStage2",
+        "prerequisite": "Stage1",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Throw_Flare_Hole&",
+        "display": "Throw Flare Hole",
+        "refName": "",
+        "prerequisite": "StartStage2",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 600,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11085,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto Canopy",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto_Canopy&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto_Canopy&",
+        "display": "Goto Canopy",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Boat&",
+        "display": "Shoot Boat",
+        "refName": "Arrow1",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Carriage&",
+        "display": "Shoot Carriage",
+        "refName": "Arrow2",
+        "prerequisite": "Arrow1",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Plaque&",
+        "display": "Shoot Plaque",
+        "refName": "Arrow3",
+        "prerequisite": "Arrow2",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Flammable&",
+        "display": "Shoot Flammable",
+        "refName": "Arrow4",
+        "prerequisite": "Arrow3",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Shoot_Lighthouse&",
+        "display": "Shoot Lighthouse",
+        "refName": "Arrow5",
+        "prerequisite": "Arrow4",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 11086,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto_Top_Bridge&",
+        "display": "Goto Top Bridge",
+        "refName": "BridgeTop",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Take_Zipline_Down&",
+        "display": "Take Zipline Down",
+        "refName": "",
+        "prerequisite": "BridgeTop",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1800,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012200,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "PickHardLockInPursuit",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_PickHardLockInPursuit&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_PickHardLockInPursuit&",
+        "display": "PickHardLockInPursuit",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_NoFlareDecoyBreaker&",
+        "display": "NoFlareDecoyBreaker",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012201,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "FALLING",
+        "refName": "FALLING",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_JumpIntoBus&",
+        "display": "JumpIntoBus",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012202,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_EnterThePipe&",
+        "display": "EnterThePipe",
+        "refName": "InPipe",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_HitHiddenBlock&",
+        "display": "HitHiddenBlock",
+        "refName": "HitBlock",
+        "prerequisite": "InPipe",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012203,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "FALLING",
+        "refName": "FALLING",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_JumpDownAndLive&",
+        "display": "JumpDownAndLive",
+        "refName": "Accomplished",
+        "prerequisite": "Start; Accomplished",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Accomplished",
+        "refName": "Accomplished",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012500,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "GotoAntenna",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_GotoAntenna&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_GotoAntenna&",
+        "display": "GotoAntenna",
+        "refName": "InAntenna",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_SearchForFlower&",
+        "display": "SearchForFlower",
+        "refName": "",
+        "prerequisite": "InAntenna",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InSlums",
+        "refName": "InSlums",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InOldTown",
+        "refName": "InOldTown",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012501,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "GotoAntenna",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_GotoAntenna&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_GotoAntenna&",
+        "display": "GotoAntenna",
+        "refName": "InAntenna",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_SearchForCrate&",
+        "display": "SearchForCrate",
+        "refName": "",
+        "prerequisite": "InAntenna",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InSlums",
+        "refName": "InSlums",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InOldTown",
+        "refName": "InOldTown",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012502,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_OpenBox&",
+        "display": "OpenBox",
+        "refName": "Interact",
+        "prerequisite": "Start; Start; Interact",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1000,
+        "nameToken": "",
+        "display": "Interact",
+        "refName": "Interact",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012700,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "GetZombieToPosition",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_GetZombieToPosition&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_GetZombieToPosition&",
+        "display": "GetZombieToPosition",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012800,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "goto1",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_DontFallLower&",
+        "display": "DontFallLower",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Hook&",
+        "display": "No Hook",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Start",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 200,
+        "nameToken": "&Bounty_Obj_Fall_Whitin&",
+        "display": "Fall Whitin",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16012905,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_PassUnderBridge&",
+        "display": "PassUnderBridge",
+        "refName": "UnderBridge",
+        "prerequisite": "Start; Start; UnderBridge",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "UnderBridge",
+        "refName": "UnderBridge",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_DontWalk&",
+        "display": "DontWalk",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_DontGetWet&",
+        "display": "DontGetWet",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Start",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_DontLandGrabEdges&",
+        "display": "DontLandGrabEdges",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16020100,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "BTZ Win",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_BTZ_Win&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_BTZ_Win&",
+        "display": "BTZ Win",
+        "refName": "BtzStart",
+        "prerequisite": "BtzStart",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "BtzStart",
+        "refName": "BtzStart",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_SurvivorSense&",
+        "display": "No SurvivorSense",
+        "refName": "",
+        "prerequisite": "BtzStart",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16020101,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "CarHuskInArea",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_CarHuskInArea&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_CarHuskInArea&",
+        "display": "CarHuskInArea",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_CarHuskInArea&",
+        "display": "CarHuskInArea",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InArea",
+        "refName": "InArea",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "NoDemolisher",
+        "refName": "NoDemolisher",
+        "prerequisite": "InArea",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16020200,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "Goto",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&Bounty_Obj_Goto&",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "Start",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Goto&",
+        "display": "Goto",
+        "refName": "goto1",
+        "prerequisite": "Start",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_DontLandGrabEdges&",
+        "display": "DontLandGrabEdges",
+        "refName": "",
+        "prerequisite": "Start",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 16020201,
+    "source": "data/scripts/bounties/bountiesdaily.scr",
+    "type": "Daily",
+    "displayName": "InArea",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "",
+    "rewardDisplay": "经验奖励",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InArea",
+        "refName": "InArea",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_SoccerGoal&",
+        "display": "SoccerGoal",
+        "refName": "Goal1",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Goal1",
+        "refName": "Goal1",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Goal2",
+        "refName": "Goal2",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 13001,
+    "source": "data/scripts/bounties/bountiesspecial.scr",
+    "type": "Special",
+    "displayName": "Collect Requisition Packs",
+    "poolReward": "Loot_GaaS_CollectableOutfit_1",
+    "rewardsDescription": "&Gaas_Bounty_Description_1&",
+    "rewardsIcon": "clothes_tee",
+    "nameToken": "&Bounty_Obj_Collect_Requisition_Packs&",
+    "rewardDisplay": "Bounty Description 1 · Loot Gaa S Collectable Outfit 1",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_Collect_Requisition_Packs&",
+        "display": "Collect Requisition Packs",
+        "refName": "Success",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "Success",
+        "refName": "Success",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14001,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Worthy of Surtr",
+    "poolReward": "Loot_Melee_HRBigAxe_R10",
+    "rewardsDescription": "&SSA_14001_Reward_Hellraid&",
+    "rewardsIcon": "weapon_hellraid_axe_u_big",
+    "nameToken": "&SSA_14001_Hellraid_Obj1_WorthyOfSurtr&",
+    "rewardDisplay": "Hellraid XP 1000 · 14001 · Loot Melee HRBig Axe R10",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14001_Hellraid_Obj1_WorthyOfSurtr&",
+        "display": "14001 WorthyOfSurtr",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_14001_Hellraid_Obj2_WorthyOfSurtr&",
+        "display": "14001 WorthyOfSurtr",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14002,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Swordsmanship Trial",
+    "poolReward": "Loot_Craftplan_HRSword_R11_SHOP",
+    "rewardsDescription": "&SSA_14002_Reward_Hellraid&",
+    "rewardsIcon": "weapon_hellraid_short_sword_knight_big",
+    "nameToken": "&SSA_14002_Hellraid_Obj1_Swordsmanship&",
+    "rewardDisplay": "Hellraid XP 200 · 14002 · Loot Craftplan HRSword R11 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14002_Hellraid_Obj1_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14002_Hellraid_Obj2_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 8,
+        "nameToken": "&SSA_14002_Hellraid_Obj3_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "Mage",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 4,
+        "nameToken": "&SSA_14002_Hellraid_Obj4_Swordsmanship&",
+        "display": "14002 Swordsmanship",
+        "refName": "Torturer",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14003,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Anarchist Challenge",
+    "poolReward": "Loot_Bundle_ThrowingItems",
+    "rewardsDescription": "&SSA_14003_Reward_Hellraid&",
+    "rewardsIcon": "component_misc_big",
+    "nameToken": "&SSA_14003_Hellraid_MainObj_Anarchist&",
+    "rewardDisplay": "Hellraid XP 500 · 14003 · Loot Bundle Throwing Items",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&SSA_14003_Hellraid_MainObj_Anarchist&",
+        "display": "14003 Anarchist",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14004,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Kicking asses",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&SSA_14004_Hellraid_MainObj_Ledges&",
+    "rewardDisplay": "Hellraid XP 2000",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14004_Hellraid_MainObj_Ledges&",
+        "display": "14004 Ledges",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14005,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14005 Secret",
+    "poolReward": "",
+    "rewardsDescription": "",
+    "rewardsIcon": "",
+    "nameToken": "&SSA_14005_Hellraid_MainObj_Secret&",
+    "rewardDisplay": "Hellraid XP 2000",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 3,
+        "nameToken": "&SSA_14005_Hellraid_MainObj_Secret&",
+        "display": "14005 Secret",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14006,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14006",
+    "poolReward": "Loot_Craftplan_HRSword_R1_SHOP",
+    "rewardsDescription": "&Craftplan_HRSword_R1_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_h_big",
+    "nameToken": "&SSA_14006_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRSword R1 · Loot Craftplan HRSword R1 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14006_Hellraid_Obj&",
+        "display": "14006",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14007,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14007",
+    "poolReward": "Loot_Craftplan_HRKhopesh_R2_SHOP",
+    "rewardsDescription": "&Craftplan_HRKhopesh_R2_reward_N&",
+    "rewardsIcon": "weapon_hellraid_khopesh_big",
+    "nameToken": "&SSA_14007_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRKhopesh R2 · Loot Craftplan HRKhopesh R2 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 20,
+        "nameToken": "&SSA_14007_Hellraid_Obj&",
+        "display": "14007",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14008,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "14008",
+    "poolReward": "Loot_Craftplan_HRScepter_R3_SHOP",
+    "rewardsDescription": "&Craftplan_HRScepter_R3_reward_N&",
+    "rewardsIcon": "weapon_hellraid_mace_scepter_big",
+    "nameToken": "&SSA_14008_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRScepter R3 · Loot Craftplan HRScepter R3 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 15,
+        "nameToken": "&SSA_14008_Hellraid_Obj&",
+        "display": "14008",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 14009,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Cutting [50] Limbs of enemy, cutting [10] enemy heads",
+    "poolReward": "Loot_Craftplan_HRShortAxe_R4_SHOP",
+    "rewardsDescription": "&Craftplan_HRShortAxe_R4_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_h_big",
+    "nameToken": "&SSA_14009_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRShort Axe R4 · Loot Craftplan HRShort Axe R4 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 50,
+        "nameToken": "&SSA_14009_Hellraid_Obj_1&",
+        "display": "14009 1",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_14009_Hellraid_Obj_2&",
+        "display": "14009 2",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 33101,
+    "source": "data/scripts/bounties/bountiesspecial.scr",
+    "type": "Special",
+    "displayName": "Subterfuge",
+    "poolReward": "Loot_Craftplan_AddOn_SubsonicAmmo",
+    "rewardsDescription": "&Bounty_LiveOps_Subsonic_Reward&",
+    "rewardsIcon": "blueprint_b_big",
+    "nameToken": "",
+    "rewardDisplay": "Live Ops Subsonic Reward · Loot Craftplan Add On Subsonic Ammo",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InSlums",
+        "refName": "InSlums",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_Obj_GotoDZ&",
+        "display": "GotoDZ",
+        "refName": "GOTODZ",
+        "prerequisite": "InSlums",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Bounty_LiveOps_Obj_ClearDZ&",
+        "display": "ClearDZ",
+        "refName": "DRPGet",
+        "prerequisite": "GOTODZ; DRPGet",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "DRPGet",
+        "refName": "DRPGet",
+        "prerequisite": "",
+        "hidden": false
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_LiveOps_Obj_NoAlert&",
+        "display": "NoAlert",
+        "refName": "",
+        "prerequisite": "GOTODZ",
+        "hidden": true
+      },
+      {
+        "kind": "FailureCount",
+        "count": 1,
+        "nameToken": "&Bounty_Obj_No_Camo&",
+        "display": "No Camo",
+        "refName": "",
+        "prerequisite": "GOTODZ",
+        "hidden": true
+      },
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "",
+        "display": "InOldTown",
+        "refName": "InOldTown",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140010,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Smashing [30] heads [known exploit: BodyPartDestroyed() doesn't work for HR_Zombie, so we removed this]",
+    "poolReward": "Loot_Craftplan_HRMace_R5_SHOP",
+    "rewardsDescription": "&Craftplan_HRMace_R5_reward_N&",
+    "rewardsIcon": "weapon_hellraid_mace_a_big",
+    "nameToken": "&SSA_140010_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRMace R5 · Loot Craftplan HRMace R5 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 30,
+        "nameToken": "&SSA_140010_Hellraid_Obj&",
+        "display": "140010",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140011,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Cutting [3] heads with one swing [5] times",
+    "poolReward": "Loot_Craftplan_HRSword_R6_SHOP",
+    "rewardsDescription": "&Craftplan_HRSword_R6_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_m_big",
+    "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+    "rewardDisplay": "Hellraid XP 200 · HRSword R6 · Loot Craftplan HRSword R6 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 5,
+        "nameToken": "&Gaas_Bounty_Obj_Multi_Behead&",
+        "display": "Gaas Bounty Multi Behead",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140012,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Kill enemies in Church area",
+    "poolReward": "Loot_Craftplan_HRLongSword_R7_SHOP",
+    "rewardsDescription": "&Craftplan_HRLongSword_R7_reward_N&",
+    "rewardsIcon": "weapon_hellraid_sword_a_big",
+    "nameToken": "&SSA_140012_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRLong Sword R7 · Loot Craftplan HRLong Sword R7 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&SSA_140012_Hellraid_Obj_1&",
+        "display": "140012 1",
+        "refName": "GOTOOP",
+        "prerequisite": "GOTOSL",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140012_Hellraid_Obj_2&",
+        "display": "140012 2",
+        "refName": "",
+        "prerequisite": "GOTOOP",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140013,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140013",
+    "poolReward": "Loot_Craftplan_HRBigAxe_R8_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigAxe_R8_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_b_big",
+    "nameToken": "&SSA_140013_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Axe R8 · Loot Craftplan HRBig Axe R8 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140013_Hellraid_Obj&",
+        "display": "140013",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140014,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140014",
+    "poolReward": "Loot_Craftplan_HRHammer_R9_SHOP",
+    "rewardsDescription": "&Craftplan_HRHammer_R9_reward_N&",
+    "rewardsIcon": "weapon_hellraid_hammer_b_big",
+    "nameToken": "&SSA_140014_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRHammer R9 · Loot Craftplan HRHammer R9 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 4,
+        "nameToken": "&SSA_140014_Hellraid_Obj&",
+        "display": "140014",
+        "refName": "Torturer",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140015,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140015 1",
+    "poolReward": "Loot_Craftplan_HRBigAxe_R10_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigAxe_R10_reward_N&",
+    "rewardsIcon": "weapon_hellraid_axe_u_big",
+    "nameToken": "&SSA_140015_Hellraid_Obj_1&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Axe R10 · Loot Craftplan HRBig Axe R10 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 1,
+        "nameToken": "&SSA_140015_Hellraid_Obj_1&",
+        "display": "140015 1",
+        "refName": "GOTOOP",
+        "prerequisite": "GOTOSL",
+        "hidden": false
+      },
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140015_Hellraid_Obj_2&",
+        "display": "140015 2",
+        "refName": "",
+        "prerequisite": "GOTOOP",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140016,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140016",
+    "poolReward": "Loot_Craftplan_HRMace_R12_SHOP",
+    "rewardsDescription": "&Craftplan_HRMace_R12_reward_N&",
+    "rewardsIcon": "weapon_mace_hellraid_big",
+    "nameToken": "&SSA_140016_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRMace R12 · Loot Craftplan HRMace R12 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140016_Hellraid_Obj&",
+        "display": "140016",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140017,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "140017",
+    "poolReward": "Loot_Craftplan_HRBigHammer_R13_SHOP",
+    "rewardsDescription": "&Craftplan_HRBigHammer_R13_reward_N&",
+    "rewardsIcon": "weapon_hammer_big_hellraid_a_big",
+    "nameToken": "&SSA_140017_Hellraid_Obj&",
+    "rewardDisplay": "Hellraid XP 200 · HRBig Hammer R13 · Loot Craftplan HRBig Hammer R13 SHOP",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 10,
+        "nameToken": "&SSA_140017_Hellraid_Obj&",
+        "display": "140017",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 140018,
+    "source": "data/scripts/bounties/bountiesspecial_dlc49.scr",
+    "type": "Special",
+    "displayName": "Shotgun Bounty",
+    "poolReward": "Loot_Collectable_Shotgun_Unlocker",
+    "rewardsDescription": "&Firearm_ShotgunHellraid_N&",
+    "rewardsIcon": "weapon_shotgun_g_big",
+    "nameToken": "&SSA_140018_Hellraid_Obj&",
+    "rewardDisplay": "Shotgun Hellraid · Loot Collectable Shotgun Unlocker",
+    "objectives": [
+      {
+        "kind": "Count",
+        "count": 666,
+        "nameToken": "&SSA_140018_Hellraid_Obj&",
+        "display": "140018",
+        "refName": "",
+        "prerequisite": "",
+        "hidden": false
+      }
+    ]
+  }
+]
